@@ -1,42 +1,130 @@
-<h2 align="center">👋 Hello! I'm Gedeon Koh — a 🎓 student innovator, 🔬 researcher & 🧠 creative technologist from 🇸🇬 Singapore.</h2>
+<!-- Banner -->
+<p align="center">
+  <img src="<img width="1280" height="320" alt="Banner:Header image" src="https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" />" alt="Gedeon Koh banner" width="100%" />
+</p>
 
-###
-
+<!-- Glass Intro -->
 <div align="center">
-  <a href="https://www.youtube.com/@gedeonkohthegreat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gedeonkoh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/gedeonkoh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/gedeonkoh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="telegram logo"  />
-  </a>
-  <a href="https://x.com/gedeonkoh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="x logo"  />
-  </a>
-  <a href="https://www.facebook.com/gedeonkoh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="facebook logo"  />
-  </a>
-  <a href="https://www.tiktok.com/@gedeonkoh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="tiktok logo"  />
-  </a>
-  <a href="https://www.pinterest.com/gedeonkohthegreat/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=E60023&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="pinterest logo"  />
-  </a>
+  <img src="<img width="500" height="500" alt="gh" src="https://github.com/user-attachments/assets/de98b722-e0ca-421c-b2cc-d9212da95281" />" alt="Gedeon Koh avatar" width="140" style="border-radius: 50%; margin-top: -70px;" />
+  
+  <h1 align="center">hey, i'm <b>gedeon</b> 👋</h1>
+
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=1300&color=4FD1FF&center=true&vCenter=true&width=520&lines=student+innovator;creative+technologist;ai+%26+systems+research;changing+the+world+with+code" alt="Typing SVG" />
+  </div>
+  
+  <br/>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/Singapore-%F0%9F%87%B8%F0%9F%87%AC-111827?style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=gedeonkoh&style=for-the-badge&color=4FD1FF&label=Profile+views" />
+  </div>
 </div>
 
-###
+---
+
+## about
+
+> building things at the intersection of **ai**, **embedded systems** and **human experiences**.
+
+- 🎓 Year 4 @ School of Science and Technology, Singapore  
+- 🔬 Exploring tinyML, edge inference & agentic workflows  
+- 🎨 Enjoy designing interfaces that feel like liquid glass  
+- 🌱 Currently improving: robotics perception, latency-aware models  
+
+---
+
+## glass hub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonkoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gedeonkoh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="125" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=gedeonkoh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&radius=16&theme=coral&area=true&order=5&custom_title=Gedeon%20Koh's%20Contribution%20Graph%20" height="300" alt="activity-graph graph"  />
+
+<!-- social glass row -->
+<a href="https://www.youtube.com/@gedeonkohthegreat">
+  <img src="https://img.shields.io/badge/Youtube-111827?style=for-the-badge&logo=youtube&logoColor=ff4b4b" />
+</a>
+<a href="https://www.linkedin.com/in/gedeonkoh/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=4FD1FF" />
+</a>
+<a href="https://x.com/gedeonkoh">
+  <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=ffffff" />
+</a>
+<a href="https://www.instagram.com/gedeonkoh/">
+  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=ff5fa2" />
+</a>
+<a href="https://t.me/gedeonkoh">
+  <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=4FD1FF" />
+</a>
+<a href="https://www.facebook.com/gedeonkoh">
+  <img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=4FD1FF" />
+</a>
+<a href="https://www.tiktok.com/@gedeonkoh">
+  <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=ffffff" />
+</a>
+<a href="https://www.pinterest.com/gedeonkohthegreat/">
+  <img src="https://img.shields.io/badge/Pinterest-111827?style=for-the-badge&logo=pinterest&logoColor=ff4b4b" />
+</a>
+<a href="https://beacons.ai/gedeonkoh">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=4FD1FF" />
+</a>
+
 </div>
 
-###
+---
+
+## stack & tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=4FD1FF" />
+<img src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=4FD1FF" />
+<img src="https://img.shields.io/badge/Edge%20Impulse-111827?style=for-the-badge&logo=edgeimpulse&logoColor=4FD1FF" />
+<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=ffb74d" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=4FD1FF" />
+<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=4FD1FF" />
+
+</div>
+
+---
+
+## stats in glass
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&hide_title=true&theme=transparent&card_width=420&hide_border=true&title_color=4FD1FF&icon_color=4FD1FF&text_color=E5E7EB" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonkoh&layout=compact&theme=transparent&hide_border=true&card_width=320&title_color=4FD1FF&text_color=E5E7EB" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gedeonkoh&theme=dark&background=00000000&border_radius=12&ring=4FD1FF&fire=4FD1FF&currStreakLabel=E5E7EB&hide_border=true" height="150" />
+</div>
+
+---
+
+## little experiments
+
+<div align="center">
+
+<!-- contribution snake -->
+<img src="https://github.com/gedeonkoh/gedeonkoh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<!-- activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&radius=16&theme=github-dark&area=true&hide_border=true&custom_title=liquid%20glass%20activity%20graph" height="260" />
+
+</div>
+
+---
+
+## now playing
+
+<div align="center">
+
+<!-- Spotify now playing (swap to your own username if you fork a service) -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=4FD1FF&bar_color_cover=false" height="120" />
+
+</div>
+
+---
+
+<!-- footer quote -->
+<p align="center">
+  <i>per aspera ad astra — shipping one tiny experiment at a time.</i>
+</p>
