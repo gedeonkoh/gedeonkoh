@@ -18,14 +18,8 @@
 ## 🌊 Who Am I
 
 Crafting intelligent systems at the intersection of **AI**, **embedded computing**, and **human-centered design**.
-```ts
-const gedeon = {
-  location: "🇸🇬 Singapore",
-  education: "School of Science & Technology, Year 4",
-  interests: ["triboelectricity", "artificial intelligence", "study apps", "minimalism"],
-  philosophy: "per aspera ad astra — through hardships to the stars"
-};
 
+---
 
 ## 🎯 Featured Projects
 
@@ -34,13 +28,21 @@ const gedeon = {
 <tr>
 <td width="33%" align="center">
 
-[![DonDonDucky](https://img.shields.io/badge/🦆_DonDonDucky-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/DonDonDucky)  
+[![DonDonDucky](https://img.shields.io/badge/🦆_DonDonDucky-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/DonDonDucky)
 
 🎮 A playful interactive game experience
-```md
+
+</td>
 <td width="33%" align="center">
 
-[![More Projects](https://img.shields.io/badge/🚀_More_Projects-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh?tab=repositories)  
+[![Desmos Graphing](https://img.shields.io/badge/📊_Desmos_Graphing-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator)
+
+🔢 Image-based graphing calculator
+
+</td>
+<td width="33%" align="center">
+
+[![More Projects](https://img.shields.io/badge/🚀_More_Projects-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh?tab=repositories)
 
 ✨ View all my work
 
@@ -48,15 +50,10 @@ const gedeon = {
 </tr>
 </table>
 </div>
+
 ---
-***
 
-## 2. Social profiles (rounded buttons, no goofy labels)
-
-Delete your existing “Connect / Social” section and paste this where you want it:
-
-```md
-## 🌐 Social Profiles
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -98,12 +95,21 @@ Delete your existing “Connect / Social” section and paste this where you wan
 
 ---
 
+## 🎵 Apple Music
+
+<div align="center">
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/api/now-playing)](https://music-profile.rayriffy.com)
+
+</div>
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=4FD1FF&icon_color=4FD1FF&text_color=C7D2FE" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=050816&title_color=4FD1FF&text_color=C7D2FE" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=4FD1FF&icon_color=4FD1FF&text_color=C7D2FE" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=050816&title_color=4FD1FF&text_color=C7D2FE" />
 
 </div>
 
@@ -123,3 +129,8 @@ Delete your existing “Connect / Social” section and paste this where you wan
 
 </div>
 
+---
+
+<div align="center">
+  <sub>per aspera ad astra</sub>
+</div>
