@@ -60,31 +60,43 @@ const gedeon = {
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect · Build · Create
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/gedeonkoh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/gedeonkoh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:gedeonkoh@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/gedeonkoh)
+<a href="https://linkedin.com/in/gedeonkoh">
+  <img src="https://img.shields.io/badge/LinkedIn-Gedeon-0A66FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/gedeonkoh">
+  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:gedeonkoh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/gedeonkoh">
+  <img src="https://img.shields.io/badge/Instagram-Stories-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
 ---
-## 🛠️ Tech Stack
-
 <div align="center">
+  
+### 🧠 Stack · 🎵 Signal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+Crafting with a small, intentional toolkit and a soundtrack that never stops.
 
 </div>
 
----
+<div align="center">
 
-## 🎵 Apple Music
+<img src="https://img.shields.io/badge/Python-For_Smart_Systems-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-For_Interfaces-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-For_Reality-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -96,13 +108,19 @@ const gedeon = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4FD1FF&icon_color=4FD1FF&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1FF&text_color=FFFFFF" />
+  
+### 📊 Systems In Motion
+
+Tiny commits, quiet iterations, compound over time.
+
 </div>
 
----
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=4FD1FF&icon_color=4FD1FF&text_color=C7D2FE" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=050816&title_color=4FD1FF&text_color=C7D2FE" />
+</div>
 
-## 🐍 Contribution Snake
+<br/>
 
 <div align="center">
 
@@ -110,38 +128,24 @@ const gedeon = {
 
 </div>
 
----
-
-## 📈 Activity Graph
+<br/>
 
 <div align="center">
 
-[![Gedeon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4FD1FF&line=4FD1FF&point=FFFFFF)](https://github.com/gedeonkoh)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&theme=tokyo-night&hide_border=true&bg_color=050816&color=4FD1FF&line=4FD1FF&point=C7D2FE" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gedeonkoh&color=4FD1FF&style=for-the-badge" alt="Profile views" />
-
-  ✨ "Through hardships to the stars" ✨
+  <img src="https://img.shields.io/badge/-–––––––––––––––––––-000000?style=for-the-badge&labelColor=000000&color=000000" alt="" />
 </div>
 
----
-
-## 💭 Random Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://img.shields.io/badge/-‎-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=111827&color=4FD1FF" alt="Apple style footer" />
 </div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20" width="100%" />
-</p>
-
 <div align="center">
-  <i>Building the future, one commit at a time 🌍</i>
+  <sub>Per aspera ad astra · designed with intention.</sub>
 </div>
