@@ -19,12 +19,14 @@
 
 Crafting intelligent systems at the intersection of **AI**, **embedded computing**, and **human-centered design**.
 
+```ts
 const gedeon = {
   location: "🇸🇬 Singapore",
   education: "School of Science & Technology, Year 4",
   interests: ["triboelectricity", "artificial intelligence", "study apps", "minimalism"],
   philosophy: "per aspera ad astra — through hardships to the stars"
 };
+
 
 ---
 
@@ -59,65 +61,62 @@ const gedeon = {
 </div>
 
 ---
+***
 
-## 🤝 Connect · Build · Create
+## 2. Social profiles (rounded buttons, no goofy labels)
+
+Delete your existing “Connect / Social” section and paste this where you want it:
+
+```md
+## 🌐 Social Profiles
 
 <div align="center">
 
-<a href="https://linkedin.com/in/gedeonkoh">
-  <img src="https://img.shields.io/badge/LinkedIn-Gedeon-0A66FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/gedeonkoh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/gedeonkoh">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.youtube.com/@gedeonkohthegreat">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="mailto:gedeonkoh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.facebook.com/gedeonkoh">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://instagram.com/gedeonkoh">
-  <img src="https://img.shields.io/badge/Instagram-Stories-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/gedeonkoh/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.pinterest.com/gedeonkohthegreat/">
+  <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
+</a>
+<a href="https://x.com/gedeonkoh">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.tiktok.com/@gedeonkoh">
+  <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
 </div>
 
 ---
-<div align="center">
-  
-### 🧠 Stack · 🎵 Signal
 
-Crafting with a small, intentional toolkit and a soundtrack that never stops.
-
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-For_Smart_Systems-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-For_Interfaces-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-For_Reality-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com)](https://music-profile.rayriffy.com)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
 </div>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-### 📊 Systems In Motion
 
-Tiny commits, quiet iterations, compound over time.
-
-</div>
-
-<div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=4FD1FF&icon_color=4FD1FF&text_color=C7D2FE" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=050816&title_color=4FD1FF&text_color=C7D2FE" />
+
 </div>
 
 <br/>
@@ -136,16 +135,3 @@ Tiny commits, quiet iterations, compound over time.
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-–––––––––––––––––––-000000?style=for-the-badge&labelColor=000000&color=000000" alt="" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-‎-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=111827&color=4FD1FF" alt="Apple style footer" />
-</div>
-
-<div align="center">
-  <sub>Per aspera ad astra · designed with intention.</sub>
-</div>
