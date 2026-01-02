@@ -18,7 +18,7 @@
 ## 🌊 Who Am I
 
 Crafting intelligent systems at the intersection of **AI**, **embedded computing**, and **human-centered design**.
-
+```ts
 const gedeon = {
   location: "🇸🇬 Singapore",
   education: "School of Science & Technology, Year 4",
@@ -26,8 +26,6 @@ const gedeon = {
   philosophy: "per aspera ad astra — through hardships to the stars"
 };
 
-
----
 
 ## 🎯 Featured Projects
 
@@ -39,15 +37,7 @@ const gedeon = {
 [![DonDonDucky](https://img.shields.io/badge/🦆_DonDonDucky-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/DonDonDucky)  
 
 🎮 A playful interactive game experience
-
-</td>
-<td width="33%" align="center">
-
-[![Desmos Graphing](https://img.shields.io/badge/📊_Desmos_Graphing-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator)  
-
-🔢 Image-based graphing calculator
-
-</td>
+```md
 <td width="33%" align="center">
 
 [![More Projects](https://img.shields.io/badge/🚀_More_Projects-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh?tab=repositories)  
@@ -58,7 +48,6 @@ const gedeon = {
 </tr>
 </table>
 </div>
-
 ---
 ***
 
