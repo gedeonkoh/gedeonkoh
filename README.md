@@ -19,7 +19,6 @@
 
 Crafting intelligent systems at the intersection of **AI**, **embedded computing**, and **human-centered design**.
 
-```ts
 const gedeon = {
   location: "🇸🇬 Singapore",
   education: "School of Science & Technology, Year 4",
