@@ -21,24 +21,32 @@
   </div>
 </div>
 
----
+<br/>
 
-## about
+<!-- About Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/✦_ABOUT_ME_✦-4FD1FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+</div>
 
-> building things at the intersection of **ai**, **embedded systems** and **human experiences**.
-
-- 🎓 Year 4 @ School of Science and Technology, Singapore  
-- 🔬 Exploring tinyML, edge inference & agentic workflows  
-- 🎨 Enjoy designing interfaces that feel like liquid glass  
-- 🌱 Currently improving: robotics perception, latency-aware models  
-
----
-
-## glass hub
+<p align="center">
+  <i>building things at the intersection of <b>ai</b>, <b>embedded systems</b> and <b>human experiences</b>.</i>
+</p>
 
 <div align="center">
 
-<!-- social glass row -->
+</div>
+
+<br/>
+
+<!-- Glass Hub Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/✦_CONNECT_WITH_ME_✦-4FD1FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+</div>
+
+<br/>
+
+<div align="center">
+
 <a href="https://www.youtube.com/@gedeonkohthegreat">
   <img src="https://img.shields.io/badge/Youtube-111827?style=for-the-badge&logo=youtube&logoColor=ff4b4b" />
 </a>
@@ -69,9 +77,14 @@
 
 </div>
 
----
+<br/>
 
-## stack & tools
+<!-- Tech Stack Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/✦_TECH_STACK_✦-4FD1FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -81,39 +94,64 @@
 <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=ffb74d" />
 <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=4FD1FF" />
 <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=4FD1FF" />
+<img src="https://img.shields.io/badge/Swift-111827?style=for-the-badge&logo=swift&logoColor=4FD1FF" />
+<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=4FD1FF" />
 
 </div>
 
----
+<br/>
 
-## stats in glass
+<!-- Stats Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/✦_GITHUB_METRICS_✦-4FD1FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&hide_title=true&theme=transparent&card_width=420&hide_border=true&title_color=4FD1FF&icon_color=4FD1FF&text_color=E5E7EB" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonkoh&layout=compact&theme=transparent&hide_border=true&card_width=320&title_color=4FD1FF&text_color=E5E7EB" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&hide_title=true&theme=transparent&hide_border=true&title_color=4FD1FF&icon_color=4FD1FF&text_color=E5E7EB&bg_color=00000000" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonkoh&layout=compact&theme=transparent&hide_border=true&title_color=4FD1FF&text_color=E5E7EB&bg_color=00000000" height="170" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gedeonkoh&theme=dark&background=00000000&border_radius=12&ring=4FD1FF&fire=4FD1FF&currStreakLabel=E5E7EB&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=gedeonkoh&theme=transparent&background=00000000&border=4FD1FF&stroke=4FD1FF&ring=4FD1FF&fire=4FD1FF&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=4FD1FF&sideLabels=4FD1FF&dates=8B949E&hide_border=true" height="170" />
 </div>
 
----
+<br/>
 
-## little experiments
+<!-- Activity Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/✦_CONTRIBUTION_ACTIVITY_✦-4FD1FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+</div>
+
+<br/>
 
 <div align="center">
 
-<!-- contribution snake -->
-<img src="https://github.com/gedeonkoh/gedeonkoh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-<!-- activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&radius=16&theme=github-dark&area=true&hide_border=true&custom_title=liquid%20glass%20activity%20graph" height="260" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gedeonkoh/gedeonkoh/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gedeonkoh/gedeonkoh/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/gedeonkoh/gedeonkoh/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
----
+<br/>
 
-## now playing
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&radius=16&theme=github-dark-dimmed&area=true&hide_border=true&custom_title=Liquid%20Glass%20Activity%20Graph&bg_color=00000000&color=4FD1FF&line=4FD1FF&point=4FD1FF&area_color=4FD1FF" height="300" />
+</div>
+
+<br/>
+
+<!-- Now Playing Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/✦_NOW_PLAYING_✦-4FD1FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -121,9 +159,10 @@
 
 </div>
 
----
+<br/>
 
-<!-- footer quote -->
-<p align="center">
-  <i>per aspera ad astra — shipping one tiny experiment at a time.</i>
-</p>
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=per%20aspera%20ad%20astra&fontSize=16&fontColor=4FD1FF&animation=twinkling" width="100%"/>
+</div>
+
