@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="<img width="1280" height="320" alt="Banner:Header image" src="https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" />" alt="Gedeon Koh banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" alt="Gedeon Koh banner" width="100%" />
 </p>
 
 <!-- Glass Intro -->
 <div align="center">
-  <img src="<img width="500" height="500" alt="gh" src="https://github.com/user-attachments/assets/de98b722-e0ca-421c-b2cc-d9212da95281" />" alt="Gedeon Koh avatar" width="140" style="border-radius: 50%; margin-top: -70px;" />
+  <img src="https://github.com/user-attachments/assets/de98b722-e0ca-421c-b2cc-d9212da95281" alt="Gedeon Koh avatar" width="140" style="border-radius: 50%; margin-top: -70px;" />
   
   <h1 align="center">hey, i'm <b>gedeon</b> 👋</h1>
 
@@ -117,8 +117,7 @@
 
 <div align="center">
 
-<!-- Spotify now playing (swap to your own username if you fork a service) -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=4FD1FF&bar_color_cover=false" height="120" />
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001840.35dbb6f448934596b35097f0f52a28eb.1317)](https://music-profile.rayriffy.com)
 
 </div>
 
