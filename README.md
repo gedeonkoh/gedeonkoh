@@ -54,7 +54,7 @@ const gedeon = {
 
 [![QuantumFlow](https://img.shields.io/badge/⚡_QuantumFlow_Beta-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/QuantumFlow-Beta)
 
-🧬 Next-gen AI workflow engine
+🧬 Legendary fitness app helping you stay active
 
 </td>
 </tr>
