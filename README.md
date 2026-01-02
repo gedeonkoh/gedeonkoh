@@ -17,17 +17,14 @@
 
 ## 🌊 Who Am I
 
-> Crafting intelligent systems at the intersection of **AI**, **embedded computing**, and **human-centered design**.
+Crafting intelligent systems at the intersection of **AI**, **embedded computing**, and **human-centered design**.
 
-```ts
 const gedeon = {
   location: "🇸🇬 Singapore",
   education: "School of Science & Technology, Year 4",
-  interests: ["tinyML", "edge inference", "agentic workflows", "robotics perception"],
-  currentFocus: "latency-aware models + liquid glass interfaces",
+  interests: ["triboelectricity", "artificial intelligence", "study apps", "minimalism"],
   philosophy: "per aspera ad astra — through hardships to the stars"
 };
-```
 
 ---
 
@@ -38,23 +35,23 @@ const gedeon = {
 <tr>
 <td width="33%" align="center">
 
-[![DonDonDucky](https://img.shields.io/badge/🦆_DonDonDucky-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/DonDonDucky)
+[![DonDonDucky](https://img.shields.io/badge/🦆_DonDonDucky-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/DonDonDucky)  
 
 🎮 A playful interactive game experience
 
 </td>
 <td width="33%" align="center">
 
-[![Desmos Graphing](https://img.shields.io/badge/📊_Desmos_Graphing-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator)
+[![Desmos Graphing](https://img.shields.io/badge/📊_Desmos_Graphing-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator)  
 
 🔢 Image-based graphing calculator
 
 </td>
 <td width="33%" align="center">
 
-[![QuantumFlow](https://img.shields.io/badge/⚡_QuantumFlow_Beta-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/QuantumFlow-Beta)
+[![More Projects](https://img.shields.io/badge/🚀_More_Projects-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh?tab=repositories)  
 
-🧬 Legendary fitness app helping you stay active
+✨ View all my work
 
 </td>
 </tr>
@@ -63,38 +60,44 @@ const gedeon = {
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@gedeonkohthegreat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gedeonkoh/)
-[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/gedeonkoh)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/gedeonkoh/)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/gedeonkoh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/gedeonkoh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/gedeonkoh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:gedeonkoh@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/gedeonkoh)
 
 </div>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino,tensorflow,react,figma,nodejs,typescript,cpp,git,docker&theme=dark&perline=5" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 </div>
 
 ---
 
+## 🎵 Apple Music
+
+<div align="center">
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com)](https://music-profile.rayriffy.com)
+
+</div>
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gedeonkoh&theme=transparent" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonkoh&layout=compact&theme=transparent" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app?username=gedeonkoh&theme=darkhub&column=4" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4FD1FF&icon_color=4FD1FF&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1FF&text_color=FFFFFF" />
 </div>
 
 ---
@@ -102,7 +105,9 @@ const gedeon = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/gedeonkoh/gedeonkoh/blob/output/github-contribution-grid-snake-dark.svg" />
+
+![Snake animation](https://raw.githubusercontent.com/gedeonkoh/gedeonkoh/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
@@ -110,7 +115,17 @@ const gedeon = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&area=true&hide_border=true" />
+
+[![Gedeon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4FD1FF&line=4FD1FF&point=FFFFFF)](https://github.com/gedeonkoh)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gedeonkoh&color=4FD1FF&style=for-the-badge" alt="Profile views" />
+
+  ✨ "Through hardships to the stars" ✨
 </div>
 
 ---
@@ -128,5 +143,5 @@ const gedeon = {
 </p>
 
 <div align="center">
-  <i>per aspera ad astra — building the future, one commit at a time</i>
+  <i>Building the future, one commit at a time 🌍</i>
 </div>
