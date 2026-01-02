@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/de98b722-e0ca-421c-b2cc-d9212da95281" alt="Gedeon Koh avatar" width="140" style="border-radius: 50%; margin-top: -70px;" />
   
-  <h1 align="center">hey, i'm <b>gedeon</b> 👋</h1>
+  <h1 align="center">Hey, I'm <b>Gedeon</b> 👋</h1>
 
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=1300&color=4FD1FF&center=true&vCenter=true&width=520&lines=student+innovator;creative+technologist;ai+%26+systems+research;changing+the+world+with+code" alt="Typing SVG" />
