@@ -166,8 +166,6 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gedeonkoh/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/6F4E37" width="32" height="32" alt="LinkedIn"/></a>
-&nbsp;&nbsp;
 <a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/A67B5B" width="32" height="32" alt="YouTube"/></a>
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/gedeonkoh" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/9C6B4E" width="32" height="32" alt="Facebook"/></a>
