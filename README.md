@@ -166,27 +166,19 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gedeonkoh/" title="LinkedIn" style="margin:6px; display:inline-block;">
-  <img src="https://img.shields.io/badge/-_-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6F4E37&color=6F4E37" alt="LinkedIn" style="border-radius:999px;" />
-</a>
-<a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube" style="margin:6px; display:inline-block;">
-  <img src="https://img.shields.io/badge/-_-A67B5B?style=for-the-badge&logo=youtube&logoColor=white&labelColor=A67B5B&color=A67B5B" alt="YouTube" style="border-radius:999px;" />
-</a>
-<a href="https://www.facebook.com/gedeonkoh" title="Facebook" style="margin:6px; display:inline-block;">
-  <img src="https://img.shields.io/badge/-_-9C6B4E?style=for-the-badge&logo=facebook&logoColor=white&labelColor=9C6B4E&color=9C6B4E" alt="Facebook" style="border-radius:999px;" />
-</a>
-<a href="https://www.instagram.com/gedeonkoh/" title="Instagram" style="margin:6px; display:inline-block;">
-  <img src="https://img.shields.io/badge/-_-C9A27E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C9A27E&color=C9A27E" alt="Instagram" style="border-radius:999px;" />
-</a>
-<a href="https://www.pinterest.com/gedeonkohthegreat/" title="Pinterest" style="margin:6px; display:inline-block;">
-  <img src="https://img.shields.io/badge/-_-6F4E37?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=6F4E37&color=6F4E37" alt="Pinterest" style="border-radius:999px;" />
-</a>
-<a href="https://x.com/gedeonkoh" title="X" style="margin:6px; display:inline-block;">
-  <img src="https://img.shields.io/badge/-_-2B1E16?style=for-the-badge&logo=x&logoColor=white&labelColor=2B1E16&color=2B1E16" alt="X" style="border-radius:999px;" />
-</a>
-<a href="https://www.tiktok.com/@gedeonkoh" title="TikTok" style="margin:6px; display:inline-block;">
-  <img src="https://img.shields.io/badge/-_-A67B5B?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=A67B5B&color=A67B5B" alt="TikTok" style="border-radius:999px;" />
-</a>
+<a href="https://www.linkedin.com/in/gedeonkoh/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/6F4E37" width="32" height="32" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/A67B5B" width="32" height="32" alt="YouTube"/></a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/gedeonkoh" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/9C6B4E" width="32" height="32" alt="Facebook"/></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/gedeonkoh/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/C9A27E" width="32" height="32" alt="Instagram"/></a>
+&nbsp;&nbsp;
+<a href="https://www.pinterest.com/gedeonkohthegreat/" title="Pinterest"><img src="https://cdn.simpleicons.org/pinterest/6F4E37" width="32" height="32" alt="Pinterest"/></a>
+&nbsp;&nbsp;
+<a href="https://x.com/gedeonkoh" title="X"><img src="https://cdn.simpleicons.org/x/2B1E16" width="32" height="32" alt="X"/></a>
+&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@gedeonkoh" title="TikTok"><img src="https://cdn.simpleicons.org/tiktok/A67B5B" width="32" height="32" alt="TikTok"/></a>
 
 </div>
 
@@ -221,7 +213,7 @@
     https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&config.timezone=Asia/Singapore&calendar=1&calendar.limit=1&calendar.legends=true&calendar.days=365&calendar.visibility=public&base=header,activity,community,metadata&plugin_lines=1&plugin_traffic=1&plugin_followup=1&plugin_calendar=1&plugin_isocalendar=1&plugin_contributors=1&plugin_habits=1
 
   - metrics-pagespeed.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.url=https%3A%2F%2Fgithub.com%2Fgedeonkohs
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.url=https%3A%2F%2Fgithub.com%2Fgedeonkoh
 -->
 
 <div align="center">
