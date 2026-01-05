@@ -7,48 +7,46 @@
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=38&duration=3000&pause=1000&color=4FD1FF&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%F0%9F%8E%93;Creative+Technologist+%F0%9F%92%A1;AI+%26+Systems+Researcher+%F0%9F%A7%A0" />
   </h1>
-
-  <img src="https://img.shields.io/badge/Singapore-%F0%9F%87%B8%F0%9F%87%AC-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Profile_Views-2.1k+-4FD1FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building_The_Future-One_Commit_At_A_Time-00d4ff?style=for-the-badge" />
 </div>
 
+<!--
+  GitHub Metrics setup
+  1) Follow https://github.com/lowlighter/metrics to install the GitHub Action in your profile repo `gedeonkoh/gedeonkoh`.
+  2) Generate and commit images to paths you reference below, or use the action's `?template=classic&...` endpoints.
+  3) Replace placeholder URLs below with your generated image URLs if different.
+-->
+
 ---
-
-## 🌊 Who Am I
-
-Crafting intelligent systems at the intersection of **AI**, **embedded computing**, and **human-centered design**.
-
----
-
-## 🎯 Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
 
-[![DonDonDucky](https://img.shields.io/badge/🦆_DonDonDucky-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/DonDonDucky)
+<!-- Profile header metrics (classic with achievements) -->
+<img alt="GitHub Metrics Profile" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-classic.svg" width="100%" />
 
-🎮 A playful interactive game experience
+<!-- Activity and coding habits side-by-side -->
+<div align="center">
+  <img alt="Coding habits" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-habits.svg" height="300" />
+  <img alt="Activity calendar" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-iso-calendar.svg" height="300" />
+</div>
 
-</td>
-<td width="33%" align="center">
+<!-- Languages and repositories -->
+<div align="center">
+  <img alt="Most used languages" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-languages.svg" height="300" />
+  <img alt="Repositories" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-repositories.svg" height="300" />
+</div>
 
-[![Desmos Graphing](https://img.shields.io/badge/📊_Desmos_Graphing-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator)
+<!-- Achievements and notable -->
+<div align="center">
+  <img alt="Achievements" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-achievements.svg" height="300" />
+  <img alt="Notable contributions" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-notable.svg" height="300" />
+</div>
 
-🔢 Image-based graphing calculator
+<!-- 3D contributions and pagespeed -->
+<div align="center">
+  <img alt="3D Contributions" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-3d-contrib.svg" height="300" />
+  <img alt="PageSpeed Insights" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-pagespeed.svg" height="300" />
+</div>
 
-</td>
-<td width="33%" align="center">
-
-[![More Projects](https://img.shields.io/badge/🚀_More_Projects-Explore-4FD1FF?style=for-the-badge)](https://github.com/gedeonkoh?tab=repositories)
-
-✨ View all my work
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -83,53 +81,35 @@ Crafting intelligent systems at the intersection of **AI**, **embedded computing
 
 ---
 
-## 🛠️ Tech Stack
+<!--
+  Suggested metrics endpoints to generate (examples):
+  - metrics-classic.svg:
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&base.repository=0&base.metadata=0&config.timezone=Asia/Singapore&isocalendar=1&isocalendar.duration=full-year&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact
 
-<div align="center">
+  - metrics-habits.svg:
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&config.timezone=Asia/Singapore&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  - metrics-iso-calendar.svg:
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&isocalendar=1&isocalendar.duration=half-year
 
-</div>
+  - metrics-languages.svg:
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true
 
----
+  - metrics-repositories.svg:
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&repositories=1&repositories.affiliations=owner&repositories.batch=100
 
-## 🎵 Apple Music
+  - metrics-achievements.svg:
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact
 
-<div align="center">
+  - metrics-notable.svg:
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&notable=1&notable.repositories=true&notable.from=organization
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/api/now-playing)](https://music-profile.rayriffy.com)
+  - metrics-3d-contrib.svg:
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&config.timezone=Asia/Singapore&calendar=1&calendar.limit=1&calendar.legends=true&calendar.days=365&calendar.visibility=public&base=header,activity,community,metadata&plugin_lines=1&plugin_traffic=1&plugin_followup=1&plugin_calendar=1&plugin_isocalendar=1&plugin_contributors=1&plugin_habits=1
 
-</div>
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=4FD1FF&icon_color=4FD1FF&text_color=C7D2FE" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=050816&title_color=4FD1FF&text_color=C7D2FE" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/gedeonkoh/gedeonkoh/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&theme=tokyo-night&hide_border=true&bg_color=050816&color=4FD1FF&line=4FD1FF&point=C7D2FE" />
-
-</div>
-
----
+  - metrics-pagespeed.svg:
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.url=https%3A%2F%2Fgithub.com%2Fgedeonkoh
+-->
 
 <div align="center">
   <sub>per aspera ad astra</sub>
