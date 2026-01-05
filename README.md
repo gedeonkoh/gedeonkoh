@@ -1,4 +1,4 @@
-<!-- Banner (kept) hi-->
+<!-- Banner (kept) -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" alt="Gedeon Koh banner" width="100%" />
 </p>
@@ -88,41 +88,12 @@
 
 <div align="center">
 
-  <!-- Profile header metrics (classic with achievements) -->
-  <img alt="GitHub Metrics Profile" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-classic.svg" width="100%" />
-
-  <br/><br/>
-
-  <!-- Languages + ISO calendar -->
-  <div>
-    <img alt="Most used languages" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-languages.svg" height="300" />
-    <img alt="Activity calendar" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-iso-calendar.svg" height="300" />
-  </div>
+  <picture>
+    <img alt="GitHub Metrics" src="github-metrics.svg" width="100%" />
+  </picture>
 
   <br/>
-
-  <!-- Habits + Repositories -->
-  <div>
-    <img alt="Coding habits" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-habits.svg" height="300" />
-    <img alt="Repositories" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-repositories.svg" height="300" />
-  </div>
-
-  <br/>
-
-  <!-- Achievements + Notable contributions -->
-  <div>
-    <img alt="Achievements" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-achievements.svg" height="300" />
-    <img alt="Notable contributions" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-notable.svg" height="300" />
-  </div>
-
-  <br/>
-
-  <!-- 3D contributions + PageSpeed -->
-  <div>
-    <img alt="3D Contributions" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-3d-contrib.svg" height="300" />
-    <img alt="PageSpeed Insights" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-pagespeed.svg" height="300" />
-  </div>
-
+  <sub>If the image doesn’t appear yet, wait for the action to finish or add <code>?v=1</code> to the URL to bypass cache.</sub>
 </div>
 
 ---
