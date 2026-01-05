@@ -221,7 +221,7 @@
     https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&config.timezone=Asia/Singapore&calendar=1&calendar.limit=1&calendar.legends=true&calendar.days=365&calendar.visibility=public&base=header,activity,community,metadata&plugin_lines=1&plugin_traffic=1&plugin_followup=1&plugin_calendar=1&plugin_isocalendar=1&plugin_contributors=1&plugin_habits=1
 
   - metrics-pagespeed.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.url=https%3A%2F%2Fgithub.com%2Fgedeonkoh
+    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.url=https%3A%2F%2Fgithub.com%2Fgedeonkohs
 -->
 
 <div align="center">
