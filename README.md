@@ -6,7 +6,7 @@
 <!-- Title + Typing animation (kept) -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=38&duration=3000&pause=1000&color=9C6B4E&center=true&vCenter=true&width=680&height=60&lines=Hey%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%F0%9F%8E%93;Creative+Technologist+%F0%9F%92%A1;AI+%26+Systems+Researcher+%F0%9F%A7%A0" />
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&size=38&duration=3000&pause=1000&color=9C6B4E&center=true&vCenter=true&width=720&height=60&lines=Hey%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%F0%9F%8E%93;Creative+Technologist+%F0%9F%92%A1;AI+%26+Systems+Researcher+%F0%9F%A7%A0" />
   </h1>
 </div>
 
@@ -55,24 +55,59 @@
 
 <br/>
 
-<!-- Featured Projects (sleek + rounded buttons) -->
 ## 🚀 Featured Projects
 
 <div align="center">
-  <div style="display:inline-block; background:#F5EFE7; padding:18px; border-radius:16px;">
-
-    <a href="https://github.com/gedeonkoh/DonDonDucky" style="text-decoration:none; margin:6px; display:inline-block;">
-      <img src="https://img.shields.io/badge/🦆%20DonDonDucky-Explore-6F4E37?style=for-the-badge" alt="DonDonDucky" />
+  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+    
+    <!-- Card 1: DonDonDucky -->
+    <a href="https://github.com/gedeonkoh/DonDonDucky" style="text-decoration:none; color:inherit;">
+      <div style="width:320px; background:#F5EFE7; border-radius:16px; padding:16px; box-shadow:0 2px 10px rgba(0,0,0,0.06); text-align:left;">
+        <div style="display:flex; gap:12px; align-items:center;">
+          <div style="width:64px; height:64px; border-radius:14px; background:#fff8f1; border:2px dashed #A67B5B;"></div>
+          <div>
+            <div style="font-weight:700; color:#2B1E16;">DonDonDucky</div>
+            <div style="font-size:12px; color:#6F4E37;">Playful interactive game experience</div>
+          </div>
+        </div>
+        <div style="margin-top:12px; color:#2B1E16; font-size:14px; line-height:1.5;">
+          A lighthearted, responsive game — built for fun and delight.
+        </div>
+      </div>
     </a>
-
-    <a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator" style="text-decoration:none; margin:6px; display:inline-block;">
-      <img src="https://img.shields.io/badge/📊%20Desmos%20Graphing-Explore-A67B5B?style=for-the-badge" alt="Desmos Graphing" />
+    
+    <!-- Card 2: Desmos Graphing -->
+    <a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator" style="text-decoration:none; color:inherit;">
+      <div style="width:320px; background:#F5EFE7; border-radius:16px; padding:16px; box-shadow:0 2px 10px rgba(0,0,0,0.06); text-align:left;">
+        <div style="display:flex; gap:12px; align-items:center;">
+          <div style="width:64px; height:64px; border-radius:14px; background:#fff8f1; border:2px dashed #A67B5B;"></div>
+          <div>
+            <div style="font-weight:700; color:#2B1E16;">Desmos Graphing</div>
+            <div style="font-size:12px; color:#6F4E37;">Image-based graphing calculator</div>
+          </div>
+        </div>
+        <div style="margin-top:12px; color:#2B1E16; font-size:14px; line-height:1.5;">
+          Turn images into graphs. Explore math with visual intuition.
+        </div>
+      </div>
     </a>
-
-    <a href="https://github.com/gedeonkoh?tab=repositories" style="text-decoration:none; margin:6px; display:inline-block;">
-      <img src="https://img.shields.io/badge/🚀%20More%20Projects-Explore-9C6B4E?style=for-the-badge" alt="More Projects" />
+    
+    <!-- Card 3: More Projects -->
+    <a href="https://github.com/gedeonkoh?tab=repositories" style="text-decoration:none; color:inherit;">
+      <div style="width:320px; background:#F5EFE7; border-radius:16px; padding:16px; box-shadow:0 2px 10px rgba(0,0,0,0.06); text-align:left;">
+        <div style="display:flex; gap:12px; align-items:center;">
+          <div style="width:64px; height:64px; border-radius:14px; background:#fff8f1; border:2px dashed #A67B5B;"></div>
+          <div>
+            <div style="font-weight:700; color:#2B1E16;">More Projects</div>
+            <div style="font-size:12px; color:#6F4E37;">Explore all my work</div>
+          </div>
+        </div>
+        <div style="margin-top:12px; color:#2B1E16; font-size:14px; line-height:1.5;">
+          A collection of experiments, tools, and prototypes.
+        </div>
+      </div>
     </a>
-
+    
   </div>
 </div>
 
@@ -88,12 +123,41 @@
 
 <div align="center">
 
-  <picture>
-    <img alt="GitHub Metrics" src="github-metrics.svg" width="100%" />
-  </picture>
+  <!-- Profile header metrics (classic with achievements) -->
+  <img alt="GitHub Metrics Profile" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-classic.svg" width="100%" />
+
+  <br/><br/>
+
+  <!-- Languages + ISO calendar -->
+  <div>
+    <img alt="Most used languages" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-languages.svg" height="300" />
+    <img alt="Activity calendar" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-iso-calendar.svg" height="300" />
+  </div>
 
   <br/>
-  <sub>If the image doesn’t appear yet, wait for the action to finish or add <code>?v=1</code> to the URL to bypass cache.</sub>
+
+  <!-- Habits + Repositories -->
+  <div>
+    <img alt="Coding habits" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-habits.svg" height="300" />
+    <img alt="Repositories" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-repositories.svg" height="300" />
+  </div>
+
+  <br/>
+
+  <!-- Achievements + Notable contributions -->
+  <div>
+    <img alt="Achievements" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-achievements.svg" height="300" />
+    <img alt="Notable contributions" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-notable.svg" height="300" />
+  </div>
+
+  <br/>
+
+  <!-- 3D contributions + PageSpeed -->
+  <div>
+    <img alt="3D Contributions" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-3d-contrib.svg" height="300" />
+    <img alt="PageSpeed Insights" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-pagespeed.svg" height="300" />
+  </div>
+
 </div>
 
 ---
@@ -102,26 +166,26 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gedeonkoh/">
-  <img src="https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/gedeonkoh/" title="LinkedIn" style="margin:6px; display:inline-block;">
+  <img src="https://img.shields.io/badge/-_-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6F4E37&color=6F4E37" alt="LinkedIn" style="border-radius:999px;" />
 </a>
-<a href="https://www.youtube.com/@gedeonkohthegreat">
-  <img src="https://img.shields.io/badge/YouTube-A67B5B?style=for-the-badge&logo=youtube&logoColor=white" />
+<a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube" style="margin:6px; display:inline-block;">
+  <img src="https://img.shields.io/badge/-_-A67B5B?style=for-the-badge&logo=youtube&logoColor=white&labelColor=A67B5B&color=A67B5B" alt="YouTube" style="border-radius:999px;" />
 </a>
-<a href="https://www.facebook.com/gedeonkoh">
-  <img src="https://img.shields.io/badge/Facebook-9C6B4E?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://www.facebook.com/gedeonkoh" title="Facebook" style="margin:6px; display:inline-block;">
+  <img src="https://img.shields.io/badge/-_-9C6B4E?style=for-the-badge&logo=facebook&logoColor=white&labelColor=9C6B4E&color=9C6B4E" alt="Facebook" style="border-radius:999px;" />
 </a>
-<a href="https://www.instagram.com/gedeonkoh/">
-  <img src="https://img.shields.io/badge/Instagram-C9A27E?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/gedeonkoh/" title="Instagram" style="margin:6px; display:inline-block;">
+  <img src="https://img.shields.io/badge/-_-C9A27E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C9A27E&color=C9A27E" alt="Instagram" style="border-radius:999px;" />
 </a>
-<a href="https://www.pinterest.com/gedeonkohthegreat/">
-  <img src="https://img.shields.io/badge/Pinterest-6F4E37?style=for-the-badge&logo=pinterest&logoColor=white" />
+<a href="https://www.pinterest.com/gedeonkohthegreat/" title="Pinterest" style="margin:6px; display:inline-block;">
+  <img src="https://img.shields.io/badge/-_-6F4E37?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=6F4E37&color=6F4E37" alt="Pinterest" style="border-radius:999px;" />
 </a>
-<a href="https://x.com/gedeonkoh">
-  <img src="https://img.shields.io/badge/X-2B1E16?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://x.com/gedeonkoh" title="X" style="margin:6px; display:inline-block;">
+  <img src="https://img.shields.io/badge/-_-2B1E16?style=for-the-badge&logo=x&logoColor=white&labelColor=2B1E16&color=2B1E16" alt="X" style="border-radius:999px;" />
 </a>
-<a href="https://www.tiktok.com/@gedeonkoh">
-  <img src="https://img.shields.io/badge/TikTok-A67B5B?style=for-the-badge&logo=tiktok&logoColor=white" />
+<a href="https://www.tiktok.com/@gedeonkoh" title="TikTok" style="margin:6px; display:inline-block;">
+  <img src="https://img.shields.io/badge/-_-A67B5B?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=A67B5B&color=A67B5B" alt="TikTok" style="border-radius:999px;" />
 </a>
 
 </div>
