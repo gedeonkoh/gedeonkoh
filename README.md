@@ -34,10 +34,9 @@
       </td>
       <td width="2%" bgcolor="#EDE6DB">&nbsp;</td>
       <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 12px 16px 12px; border-radius:18px; border-left:2px dashed #A67B5B;">
-        <!-- 📸 PHOTO PLACEHOLDER — replace src with your own photo URL -->
         <img
           src="https://github.com/gedeonkoh/gedeonkoh/blob/4a670fe1653db768265166ef8e28ba4e06b382d6/A7B7DAA6-6372-4E72-9477-5A92A76A4C0B_1_105_c.jpeg"
-          alt="Photo placeholder — replace with your image"
+          alt="Gedeon Koh"
           width="240"
           height="300"
           style="display:block; margin:0 auto 10px auto;"
@@ -73,28 +72,71 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+<table cellpadding="0" cellspacing="8" width="100%">
 
 <!-- Row 1 -->
-<a href="https://github.com/gedeonkoh/DonDonDucky">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" align="top" />
-</a><a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=Desmos-Image-Graphing-Calculator&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" align="top" />
-</a>
+<tr>
+  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
+    <a href="https://github.com/gedeonkoh/DonDonDucky" style="text-decoration:none;">
+      <b style="color:#C9A27E; font-size:15px;">🖥️ DonDonDucky</b>
+    </a><br/><br/>
+    <span style="color:#EDE6DB; font-size:13px;">A beautiful focus timer app for iOS with to-do lists, music integration, Apple Calendar sync, widgets, and more. Built with SwiftUI.</span><br/><br/>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/github/stars/gedeonkoh/DonDonDucky?style=flat-square&color=A67B5B&labelColor=2B1E16" />
+  </td>
+  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
+    <a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator" style="text-decoration:none;">
+      <b style="color:#C9A27E; font-size:15px;">🖥️ Desmos-Image-Graphing-Calculator</b>
+    </a><br/><br/>
+    <span style="color:#EDE6DB; font-size:13px;">Desmos Image Graphing Calculator helps you make beautiful pieces of art just from an image.</span><br/><br/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/github/forks/gedeonkoh/Desmos-Image-Graphing-Calculator?style=flat-square&color=A67B5B&labelColor=2B1E16" />
+  </td>
+</tr>
+
+<tr><td colspan="2" height="8"></td></tr>
 
 <!-- Row 2 -->
-<a href="https://github.com/gedeonkoh/QuantumFlow-Beta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" align="top" />
-</a><a href="https://github.com/gedeonkoh/ArcIcons">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=ArcIcons&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" align="top" />
-</a>
+<tr>
+  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
+    <a href="https://github.com/gedeonkoh/QuantumFlow-Beta" style="text-decoration:none;">
+      <b style="color:#C9A27E; font-size:15px;">🖥️ QuantumFlow-Beta</b>
+    </a><br/><br/>
+    <span style="color:#EDE6DB; font-size:13px;">Sleek in every way. The first working Changemaker app in SST. Made by Gedeon Koh, Arnab Ghosh and Gregory Tay.</span><br/><br/>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/github/stars/gedeonkoh/QuantumFlow-Beta?style=flat-square&color=A67B5B&labelColor=2B1E16" />
+  </td>
+  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
+    <a href="https://github.com/gedeonkoh/ArcIcons" style="text-decoration:none;">
+      <b style="color:#C9A27E; font-size:15px;">🖥️ ArcIcons</b>
+    </a><br/><br/>
+    <span style="color:#EDE6DB; font-size:13px;">A collection of commands that change the Arc Browser icon on macOS.</span><br/><br/>
+    <img src="https://img.shields.io/github/stars/gedeonkoh/ArcIcons?style=flat-square&color=A67B5B&labelColor=2B1E16" />
+  </td>
+</tr>
+
+<tr><td colspan="2" height="8"></td></tr>
 
 <!-- Row 3 -->
-<a href="https://github.com/gedeonkoh/MelodyBox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" align="top" />
-</a><a href="https://github.com/gedeonkoh?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=gedeonkoh&hide_border=true&bg_color=3D2A1E&title_color=EDE6DB&icon_color=C9A27E&text_color=C9A27E&border_radius=16" width="48%" align="top" />
-</a>
+<tr>
+  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
+    <a href="https://github.com/gedeonkoh/MelodyBox" style="text-decoration:none;">
+      <b style="color:#C9A27E; font-size:15px;">🖥️ MelodyBox</b>
+    </a><br/><br/>
+    <span style="color:#EDE6DB; font-size:13px;">MelodyBox is a lightweight and elegant Mac application that brings your music controls right to the menu bar.</span><br/><br/>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/github/stars/gedeonkoh/MelodyBox?style=flat-square&color=A67B5B&labelColor=2B1E16" />
+  </td>
+  <td width="50%" valign="top" bgcolor="#3D2A1E" style="padding:20px 22px; border-radius:16px; height:140px;">
+    <a href="https://github.com/gedeonkoh" style="text-decoration:none;">
+      <b style="color:#EDE6DB; font-size:15px;">🖥️ gedeonkoh</b>
+    </a><br/><br/>
+    <span style="color:#C9A27E; font-size:13px;">Student Innovator in Programming &amp; AI • Perplexity AI Business Fellow 2025 • ARC@SST Vice Chairperson • Three Time Bulky Waste To Wonder Finalist.</span><br/><br/>
+    <img src="https://img.shields.io/github/stars/gedeonkoh/gedeonkoh?style=flat-square&color=C9A27E&labelColor=3D2A1E" />
+  </td>
+</tr>
 
+</table>
 </div>
 
 <br/>
@@ -111,7 +153,6 @@
 
 <div align="center">
 
-<!-- Stats + Languages — same row, width set so they fill the container edge-to-edge -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&hide_border=true&border_radius=16&bg_color=00000000&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&count_private=true&include_all_commits=true&rank_icon=github" />
@@ -124,7 +165,6 @@
     width="40%" alt="Top Languages" />
 </picture>
 
-<!-- Streak — full width, no gap -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com/?user=gedeonkoh&hide_border=true&border_radius=16&background=00000000&stroke=6F4E37&ring=9C6B4E&fire=C9A27E&currStreakNum=EDE6DB&sideNums=EDE6DB&currStreakLabel=C9A27E&sideLabels=A67B5B&dates=6F4E37" />
@@ -134,7 +174,6 @@
 
 <br/>
 
-<!-- Activity graph -->
 <a href="https://github.com/gedeonkoh">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&bg_color=00000000&color=A67B5B&line=9C6B4E&point=C9A27E&area=true&area_color=2B1E16&hide_border=true&custom_title=Contribution%20Activity&radius=16"
     alt="Contribution Graph" width="97%" />
@@ -156,7 +195,6 @@
 
 <div align="center">
 
-<!-- Skill icons via skillicons.dev — renders as beautiful app-icon grid -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=swift,python,cpp,jupyter&theme=dark&perline=4" alt="Swift Python C++ Jupyter" />
 </a>
