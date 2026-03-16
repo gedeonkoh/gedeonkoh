@@ -209,5 +209,5 @@
 
 <!-- ═══ FOOTER WAVE ═══ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&animation=twinkling&desc=Smooth+seas+never+made+a+great+sailor+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+%F0%9F%A5%B7&descAlign=50&descAlignY=65&descSize=17&descColor=EDE6DB&fontFamily=Helvetica" />
+  <img src="footer.svg" width="100%" alt="Smooth seas never made a great sailor" />
 </p>
