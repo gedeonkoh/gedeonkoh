@@ -22,29 +22,25 @@
 
 <!-- ═══ INTRO CARD ═══ -->
 <div align="center">
-  <table width="860" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="58%" valign="top" bgcolor="#EDE6DB" style="padding:28px 26px; border-radius:18px;">
-        <font size="5"><strong>Crafting systems at the edge of AI, hardware, and human-centered design.</strong></font><br/><br/>
-        Building playful, purposeful tech — from embedded gadgets to intelligent software. Making the world a better place once and for all. Always shipping, always learning.<br/><br/>
-        <a href="https://github.com/lowlighter/metrics">
-          <img alt="Powered by Metrics" src="https://img.shields.io/badge/Powered_by-Metrics-6F4E37?style=for-the-badge&logo=github&logoColor=fff" />
-        </a>
-        <img alt="Coffee vibes" src="https://img.shields.io/badge/coffee_vibes-on-9C6B4E?style=for-the-badge" />
-      </td>
-      <td width="2%" bgcolor="#EDE6DB">&nbsp;</td>
-      <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 20px; border-radius:18px; border-left:2px dashed #A67B5B;">
-        <img
-          src="https://github.com/gedeonkoh/gedeonkoh/blob/4a670fe1653db768265166ef8e28ba4e06b382d6/A7B7DAA6-6372-4E72-9477-5A92A76A4C0B_1_105_c.jpeg"
-          alt="Gedeon Koh"
-          width="240"
-          height="300"
-        /><br/>
-        <sub><small><i>Presenting My Project at the Annual GT College International Science Project Competition 2025</i></small></sub>
-      </td>
-
-    </tr>
-  </table>
+  <div style="display:flex; gap:20px; align-items:flex-start; max-width:860px; margin:0 auto; background:#EDE6DB; border-radius:18px; padding:28px 26px;">
+    <div style="flex:0 0 58%;">
+      <font size="5"><strong>Crafting systems at the edge of AI, hardware, and human-centered design.</strong></font><br/><br/>
+      Building playful, purposeful tech — from embedded gadgets to intelligent software. Making the world a better place once and for all. Always shipping, always learning.<br/><br/>
+      <a href="https://github.com/lowlighter/metrics">
+        <img alt="Powered by Metrics" src="https://img.shields.io/badge/Powered_by-Metrics-6F4E37?style=for-the-badge&logo=github&logoColor=fff" />
+      </a>
+      <img alt="Coffee vibes" src="https://img.shields.io/badge/coffee_vibes-on-9C6B4E?style=for-the-badge" />
+    </div>
+    <div style="flex:0 0 40%; text-align:center; border-left:2px dashed #A67B5B; padding-left:20px;">
+      <img
+        src="https://github.com/gedeonkoh/gedeonkoh/blob/4a670fe1653db768265166ef8e28ba4e06b382d6/A7B7DAA6-6372-4E72-9477-5A92A76A4C0B_1_105_c.jpeg"
+        alt="Gedeon Koh"
+        width="240"
+        height="300"
+      /><br/>
+      <sub style="margin-top:4px; display:inline-block;"><small><i>Presenting My Project at the Annual GT College International Science Project Competition 2025</i></small></sub>
+    </div>
+  </div>
 </div>
 
 <br/>
