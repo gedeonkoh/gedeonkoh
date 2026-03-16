@@ -42,7 +42,7 @@
           height="300"
         />
         <br/>
-        <sub><i>Replace img src · 240 × 300 px</i></sub>
+        <sub><i>Presenting My Project at the Annual GT College International Science Project Compeition 2025</i></sub>
       </td>
     </tr>
   </table>
