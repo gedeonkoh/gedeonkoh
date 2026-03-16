@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
+  <defs>
+    <!-- Cinematic Dark Gradient Background -->
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#2B1E16" />
+      <stop offset="100%" stop-color="#0a0705" />
+    </radialGradient>
+
+    <!-- Parallax Wave Gradients -->
+    <linearGradient id="wave1Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#C9A27E" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#6F4E37" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="wave2Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6F4E37" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#140e0a" stop-opacity="1" />
+    </linearGradient>
+
+    <style>
+      /* Ambient Typography Glow */
+      @keyframes textGlow {
+        0% { text-shadow: 0 0 10px rgba(237, 230, 219, 0.1); }
+        100% { text-shadow: 0 0 30px rgba(201, 162, 126, 0.9), 0 0 10px rgba(237, 230, 219, 0.5); }
+      }
+      
+      /* Seamless Infinite Wave Loops */
+      @keyframes flowWave1 {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-1000px); }
+      }
+      @keyframes flowWave2 {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-1000px); }
+      }
+
+      /* Zero-Gravity Floating Elements */
+      @keyframes floatCode {
+        0%, 100% { transform: translate(120px, 60px) rotate(15deg); }
+        50% { transform: translate(120px, 40px) rotate(5deg) scale(1.05); }
+      }
+      @keyframes floatStylus {
+        0%, 100% { transform: translate(820px, 45px) rotate(-10deg); }
+        50% { transform: translate(820px, 65px) rotate(-25deg) scale(1.1); }
+      }
+      @keyframes floatSpark {
+        0%, 100% { transform: translate(260px, 130px) rotate(0deg); opacity: 0.5; }
+        50% { transform: translate(260px, 115px) rotate(15deg); opacity: 1; }
+      }
+      @keyframes floatTablet {
+        0%, 100% { transform: translate(740px, 135px) rotate(20deg); opacity: 0.4; }
+        50% { transform: translate(740px, 120px) rotate(5deg); opacity: 0.8; }
+      }
+
+      /* Apple-style Font Rendering */
+      .quote {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, sans-serif;
+        font-size: 30px;
+        font-weight: 700;
+        fill: #EDE6DB;
+        text-anchor: middle;
+        animation: textGlow 3.5s ease-in-out infinite alternate;
+      }
+      .subtext {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Helvetica, sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        letter-spacing: 5px;
+        fill: #C9A27E;
+        text-anchor: middle;
+        opacity: 0.7;
+      }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="15" />
+
+  <!-- Abstract Floating Creative Icons (Code, Design, Sparkles) -->
+  
+  <!-- Code Icon </> -->
+  <g style="animation: floatCode 6s ease-in-out infinite;">
+    <path d="M20 15 L5 30 L20 45 M40 15 L55 30 L40 45 M35 10 L25 50" stroke="#C9A27E" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  </g>
+  
+  <!-- Stylus / Apple Pencil Icon -->
+  <g style="animation: floatStylus 7.5s ease-in-out infinite;">
+    <path d="M35 5 L45 15 L15 45 L5 45 L5 35 Z M30 10 L40 20" stroke="#EDE6DB" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+    <path d="M5 45 L10 40" stroke="#EDE6DB" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Sparkle/Magic Icon -->
+  <g style="animation: floatSpark 5s ease-in-out infinite;">
+    <path d="M15 0 C15 10 25 15 30 15 C25 15 15 20 15 30 C15 20 5 15 0 15 C5 15 15 10 15 0" fill="#6F4E37" />
+  </g>
+
+  <!-- Graphic Tablet / Window UI Icon -->
+  <g style="animation: floatTablet 8.5s ease-in-out infinite;">
+    <rect x="0" y="0" width="46" height="32" rx="4" stroke="#C9A27E" stroke-width="3" fill="none"/>
+    <circle cx="9" cy="9" r="2.5" fill="#C9A27E"/>
+    <circle cx="18" cy="9" r="2.5" fill="#C9A27E"/>
+  </g>
+
+  <!-- Typography Centerpiece -->
+  <text x="500" y="105" class="quote">Smooth seas never made a great sailor 🏴‍☠️ 🥷</text>
+  <text x="500" y="145" class="subtext">CODE • DESIGN • INNOVATE</text>
+
+  <!-- Fluid Parallax Waves -->
+  
+  <!-- Back Wave (Lighter, taller, faster) -->
+  <g transform="translate(0, 140)">
+    <path fill="url(#wave1Grad)" style="animation: flowWave1 14s linear infinite;" 
+          d="M0 30 C 125 80, 375 -20, 500 30 C 625 80, 875 -20, 1000 30 C 1125 80, 1375 -20, 1500 30 C 1625 80, 1875 -20, 2000 30 L 2000 120 L 0 120 Z" />
+  </g>
+  
+  <!-- Front Wave (Darker, lower, smoother) -->
+  <g transform="translate(0, 160)">
+    <path fill="url(#wave2Grad)" style="animation: flowWave2 10s linear infinite;" 
+          d="M0 25 C 150 -15, 350 65, 500 25 C 650 -15, 850 65, 1000 25 C 1150 -15, 1350 65, 1500 25 C 1650 -15, 1850 65, 2000 25 L 2000 100 L 0 100 Z" />
+  </g>
+</svg>
