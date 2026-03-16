@@ -25,7 +25,7 @@
   <table width="860" cellpadding="0" cellspacing="0">
     <tr>
       <td width="58%" valign="top" bgcolor="#EDE6DB" style="padding:28px 26px; border-radius:18px;">
-        <h2 style="margin:0 0 12px 0; font-size:20px; color:#2B1E16;">Crafting systems at the edge of AI, hardware, and human-centered design.</h2>
+        <b>Crafting systems at the edge of AI, hardware, and human-centered design.</b><br/><br/>
         Building playful, purposeful tech — from embedded gadgets to intelligent software. Making the world a better place once and for all. Always shipping, always learning.<br/><br/>
         <a href="https://github.com/lowlighter/metrics">
           <img alt="Powered by Metrics" src="https://img.shields.io/badge/Powered_by-Metrics-6F4E37?style=for-the-badge&logo=github&logoColor=fff" />
@@ -33,18 +33,19 @@
         <img alt="Coffee vibes" src="https://img.shields.io/badge/coffee_vibes-on-9C6B4E?style=for-the-badge" />
       </td>
       <td width="2%" bgcolor="#EDE6DB">&nbsp;</td>
-      <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 12px 16px 12px; border-radius:18px; border-left:2px dashed #A67B5B;">
+      <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 20px; border-radius:18px; border-left:2px dashed #A67B5B;">
+        <!-- 📸 PHOTO PLACEHOLDER — replace src with your own photo URL -->
         <img
           src="https://github.com/gedeonkoh/gedeonkoh/blob/4a670fe1653db768265166ef8e28ba4e06b382d6/A7B7DAA6-6372-4E72-9477-5A92A76A4C0B_1_105_c.jpeg"
-          alt="Gedeon Koh"
+          alt="Photo placeholder — replace with your image"
           width="240"
           height="300"
-          style="display:block; margin:0 auto 10px auto;"
         />
-        <div style="font-size:11px; font-style:italic; color:#6F4E37; padding:0 4px; line-height:1.4;">Presenting My Project at the Annual GT College International Science Project Compeition 2025</div>
+        <br/>
+        <sub><i>Presenting My Project at the Annual GT College International Science Project Compeition 2025</i></sub>
       </td>
     </tr>
-</table>
+  </table>
 </div>
 
 <br/>
@@ -71,20 +72,35 @@
 
 ## 🚀 Featured Projects
 
-<table cellspacing="6" cellpadding="0" width="100%" style="border-collapse:separate; border:none; background:transparent;">
-<tr>
-<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/DonDonDucky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
-<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/DonDonDucky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
-</tr>
-<tr>
-<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
-<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
-</tr>
-<tr>
-<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/MelodyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
-<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/MelodyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
-</tr>
-</table>
+<div align="center">
+
+<!-- Row 1 — tight, no double br -->
+<a href="https://github.com/gedeonkoh/DonDonDucky">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
+</a>
+<a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=Desmos-Image-Graphing-Calculator&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
+</a>
+
+<!-- Row 2 -->
+<a href="https://github.com/gedeonkoh/QuantumFlow-Beta">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
+</a>
+<!-- ⚡ STRIKA — replace ArcIcons with your Strika repo name when ready -->
+<a href="https://github.com/gedeonkoh/ArcIcons">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=ArcIcons&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
+</a>
+
+<!-- Row 3 -->
+<!-- 🧭 VIA — replace MelodyBox with your Via repo name when ready -->
+<a href="https://github.com/gedeonkoh/MelodyBox">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
+</a>
+<a href="https://github.com/gedeonkoh?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=gedeonkoh&hide_border=true&bg_color=3D2A1E&title_color=EDE6DB&icon_color=C9A27E&text_color=C9A27E&border_radius=16" width="48%" />
+</a>
+
+</div>
 
 <br/>
 
@@ -100,6 +116,7 @@
 
 <div align="center">
 
+<!-- Stats + Languages — same row, width set so they fill the container edge-to-edge -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&hide_border=true&border_radius=16&bg_color=00000000&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&count_private=true&include_all_commits=true&rank_icon=github" />
@@ -112,6 +129,7 @@
     width="40%" alt="Top Languages" />
 </picture>
 
+<!-- Streak — full width, no gap -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com/?user=gedeonkoh&hide_border=true&border_radius=16&background=00000000&stroke=6F4E37&ring=9C6B4E&fire=C9A27E&currStreakNum=EDE6DB&sideNums=EDE6DB&currStreakLabel=C9A27E&sideLabels=A67B5B&dates=6F4E37" />
@@ -121,6 +139,7 @@
 
 <br/>
 
+<!-- Activity graph -->
 <a href="https://github.com/gedeonkoh">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&bg_color=00000000&color=A67B5B&line=9C6B4E&point=C9A27E&area=true&area_color=2B1E16&hide_border=true&custom_title=Contribution%20Activity&radius=16"
     alt="Contribution Graph" width="97%" />
@@ -134,10 +153,15 @@
 
 <br/>
 
+<!-- ════════════════════════════════════════════════════ -->
+<!--           🎯  LANGUAGES — SKILL ICON STYLE          -->
+<!-- ════════════════════════════════════════════════════ -->
+
 ## 🤟🎸 Languages
 
 <div align="center">
 
+<!-- Skill icons via skillicons.dev — renders as beautiful app-icon grid -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=swift,python,cpp,jupyter&theme=dark&perline=4" alt="Swift Python C++ Jupyter" />
 </a>
@@ -150,26 +174,30 @@
 
 <br/>
 
+<!-- ════════════════════════════════════════════════════ -->
+<!--                🌐  SOCIAL PROFILES                  -->
+<!-- ════════════════════════════════════════════════════ -->
+
 ## 🌐 Social Profiles
 
 <div align="center">
 
-<a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube" style="text-decoration:none;">
+<a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube">
   <img src="https://cdn.simpleicons.org/youtube/A67B5B" width="60" height="60" alt="YouTube"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/gedeonkoh" title="Facebook" style="text-decoration:none;">
+<a href="https://www.facebook.com/gedeonkoh" title="Facebook">
   <img src="https://cdn.simpleicons.org/facebook/9C6B4E" width="60" height="60" alt="Facebook"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/gedeonkoh/" title="Instagram" style="text-decoration:none;">
+<a href="https://www.instagram.com/gedeonkoh/" title="Instagram">
   <img src="https://cdn.simpleicons.org/instagram/C9A27E" width="60" height="60" alt="Instagram"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.pinterest.com/gedeonkohthegreat/" title="Pinterest" style="text-decoration:none;">
+<a href="https://www.pinterest.com/gedeonkohthegreat/" title="Pinterest">
   <img src="https://cdn.simpleicons.org/pinterest/6F4E37" width="60" height="60" alt="Pinterest"/>
 </a>&nbsp;&nbsp;
-<a href="https://x.com/gedeonkoh" title="X" style="text-decoration:none;">
+<a href="https://x.com/gedeonkoh" title="X">
   <img src="https://cdn.simpleicons.org/x/EDE6DB" width="60" height="60" alt="X"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@gedeonkoh" title="TikTok" style="text-decoration:none;">
+<a href="https://www.tiktok.com/@gedeonkoh" title="TikTok">
   <img src="https://cdn.simpleicons.org/tiktok/A67B5B" width="60" height="60" alt="TikTok"/>
 </a>
 
@@ -180,4 +208,6 @@
 ---
 
 <!-- ═══ FOOTER WAVE ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&startColor=6F4E37&endColor=2B1E16&height=200&section=footer&animation=fadeIn&desc=Smooth+seas+never+made+a+great+sailor+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+%F0%9F%A5%B7&descAlign=50&descAlignY=70&descSize=20&descColor=C9A27E&fontColor=EDE6DB&fontAlignY=40&fontSize=28&text=Gedeon+Koh&fontFamily=Helvetica" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&animation=twinkling&desc=Smooth+seas+never+made+a+great+sailor+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+%F0%9F%A5%B7&descAlign=50&descAlignY=65&descSize=17&descColor=EDE6DB&fontFamily=Helvetica" />
+</p>
