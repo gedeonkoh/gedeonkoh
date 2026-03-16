@@ -25,7 +25,7 @@
   <table width="860" cellpadding="0" cellspacing="0">
     <tr>
       <td width="58%" valign="top" bgcolor="#EDE6DB" style="padding:28px 26px; border-radius:18px;">
-        <span style="font-size:18px; font-weight:bold;">Crafting systems at the edge of AI, hardware, and human-centered design.</span><br/><br/>
+        <font size="5"><strong>Crafting systems at the edge of AI, hardware, and human-centered design.</strong></font><br/><br/>
         Building playful, purposeful tech — from embedded gadgets to intelligent software. Making the world a better place once and for all. Always shipping, always learning.<br/><br/>
         <a href="https://github.com/lowlighter/metrics">
           <img alt="Powered by Metrics" src="https://img.shields.io/badge/Powered_by-Metrics-6F4E37?style=for-the-badge&logo=github&logoColor=fff" />
