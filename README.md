@@ -26,7 +26,7 @@
     <tr>
       <td width="58%" valign="top" bgcolor="#EDE6DB" style="padding:28px 26px; border-radius:18px;">
         <b>Crafting systems at the edge of AI, hardware, and human-centered design.</b><br/><br/>
-        I build playful, purposeful tech — from embedded gadgets to intelligent software. Always shipping, always learning.<br/><br/>
+        Building playful, purposeful tech — from embedded gadgets to intelligent software. Making the world a better place once and for all. Always shipping, always learning.<br/><br/>
         <a href="https://github.com/lowlighter/metrics">
           <img alt="Powered by Metrics" src="https://img.shields.io/badge/Powered_by-Metrics-6F4E37?style=for-the-badge&logo=github&logoColor=fff" />
         </a>
