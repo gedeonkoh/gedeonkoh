@@ -36,7 +36,7 @@
       <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 20px; border-radius:18px; border-left:2px dashed #A67B5B;">
         <!-- 📸 PHOTO PLACEHOLDER — replace src with your own photo URL -->
         <img
-          src="https://placehold.co/240x300/FFF8F1/A67B5B?text=Your+Photo"
+          src="https://github.com/gedeonkoh/gedeonkoh/blob/4a670fe1653db768265166ef8e28ba4e06b382d6/A7B7DAA6-6372-4E72-9477-5A92A76A4C0B_1_105_c.jpeg"
           alt="Photo placeholder — replace with your image"
           width="240"
           height="300"
