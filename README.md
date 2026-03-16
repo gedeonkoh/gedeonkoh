@@ -1,219 +1,302 @@
-<!-- Banner (kept) -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    GEDEON KOH — PROFILE README             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- CAPSULE RENDER — WAVE HEADER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" alt="Gedeon Koh banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gedeon%20Koh&fontSize=70&fontColor=EDE6DB&animation=fadeIn&fontAlignY=35&desc=Creative%20Technologist%20%7C%20AI%20Researcher%20%7C%20Builder&descAlignY=58&descSize=18&descColor=C9A27E" />
 </p>
 
-<!-- Title + Typing animation (kept) -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&size=38&duration=3000&pause=1000&color=9C6B4E&center=true&vCenter=true&width=720&height=60&lines=Hey%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%F0%9F%8E%93;Creative+Technologist+%F0%9F%92%A1;AI+%26+Systems+Researcher+%F0%9F%A7%A0" />
-  </h1>
-</div>
-
-<!--
-  Coffee palette (for reference)
-  Dark Coffee: #2B1E16
-  Mocha:       #6F4E37
-  Caramel:     #A67B5B
-  Latte:       #C9A27E
-  Cream:       #EDE6DB
-  Accent:      #9C6B4E
--->
-
-<!-- Intro + Favorite Characters placeholder (two-column) -->
-<div align="center">
-  <div style="display:inline-block; width:100%; max-width:1100px; background:#EDE6DB; color:#2B1E16; padding:22px 22px; border-radius:18px; box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-    <table width="100%">
-      <tr>
-        <td valign="top" style="width:64%; min-width:260px; padding-right:16px;">
-          <h3 style="margin-top:0; color:#2B1E16;">Crafting systems at the edge of AI, hardware, and human-centered design.</h3>
-          <p style="margin:0; line-height:1.6;">
-            I build playful, purposeful tech — from embedded gadgets to intelligent software. Always shipping, always learning.
-          </p>
-          <br/>
-          <div>
-            <a href="https://github.com/lowlighter/metrics" style="text-decoration:none;">
-              <img alt="Metrics powered" src="https://img.shields.io/badge/Powered_by-Metrics-6F4E37?style=for-the-badge&logo=github&logoColor=fff" />
-            </a>
-            <img alt="Coffee vibe" src="https://img.shields.io/badge/coffee_vibes-on-9C6B4E?style=for-the-badge" />
-          </div>
-        </td>
-        <td valign="top" align="center" style="width:36%; min-width:220px;">
-          <div style="display:inline-block; width:280px; height:360px; border:2px dashed #A67B5B; border-radius:16px; background:#fff8f1; color:#6F4E37; padding:12px; box-sizing:border-box;">
-            <div style="font-weight:600; margin-top:6px;">Favorite Characters</div>
-            <div style="font-size:12px; opacity:0.8;">Placeholder — add image later</div>
-            <div style="margin-top:12px; font-size:12px; line-height:1.4;">
-              Recommended size: <strong>280 × 360 px</strong><br/>
-              (PNG/JPG with transparent/light background works best.)
-            </div>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&size=26&duration=3000&pause=800&color=9C6B4E&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hey+there%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%40+SST+Singapore+%F0%9F%8E%93;CEO+of+innocreate!+%F0%9F%9A%80;Perplexity+AI+Business+Fellow+2025+%F0%9F%A7%A0;ARC%40SST+Vice+Chairperson+%F0%9F%94%AC;Bulky+Waste+To+Wonder+Champion+%F0%9F%8F%86;Creative+Technologist+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <br/>
 
+<!-- QUICK BADGES ROW -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gedeonkoh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gedeonkoh)
+[![GitHub](https://img.shields.io/badge/GitHub-gedeonkoh-2B1E16?style=flat-square&logo=github&logoColor=white)](https://github.com/gedeonkoh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-beacons.ai-A67B5B?style=flat-square&logo=linktree&logoColor=white)](https://beacons.ai/gedeonkoh)
+[![Perplexity Fellow](https://img.shields.io/badge/Perplexity-AI_Fellow_2025-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)](https://perplexity.ai)
+[![Location](https://img.shields.io/badge/📍-Singapore-9C6B4E?style=flat-square)](https://en.wikipedia.org/wiki/Singapore)
+![Profile Views](https://komarev.com/ghpvc/?username=gedeonkoh&color=9C6B4E&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════╗ -->
+<!-- ║       ABOUT ME           ║ -->
+<!-- ╚══════════════════════════╝ -->
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 🧠 About Me
+
+```yaml
+name:       Gedeon Koh Jing Yi
+role:       Year 4 @ School of Science and Technology, SG
+org:        CEO @ innocreate!  |  ARC@SST Vice-Chair
+fellowship: Perplexity AI Business Fellowship 2025
+research:   Scientific Researcher @ NUS
+trophies:
+  - 🥇 Bulky Waste To Wonder Champion 2025
+  - 🥇 Bulky Waste To Wonder Champion 2024
+  - 🥇 ICIA Gold Award 2024 (International)
+  - 🏅 Special Commendation — Media Challenge 2024
+  - 🏆 SCOPA Outstanding CCA Award 2025
+mission:    "Per aspera ad astra"
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+### 🛠️ Tech Arsenal
+
+![Python](https://img.shields.io/badge/Python-2B1E16?style=for-the-badge&logo=python&logoColor=C9A27E)
+![Swift](https://img.shields.io/badge/Swift-2B1E16?style=for-the-badge&logo=swift&logoColor=F05138)
+![JavaScript](https://img.shields.io/badge/JS-2B1E16?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-2B1E16?style=for-the-badge&logo=swift&logoColor=C9A27E)
+![Jupyter](https://img.shields.io/badge/Jupyter-2B1E16?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2B1E16?style=for-the-badge&logo=githubactions&logoColor=C9A27E)
+![Figma](https://img.shields.io/badge/Figma-2B1E16?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Notion](https://img.shields.io/badge/Notion-2B1E16?style=for-the-badge&logo=notion&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ╔══════════════════════════╗ -->
+<!-- ║    FEATURED PROJECTS     ║ -->
+<!-- ╚══════════════════════════╝ -->
+
 ## 🚀 Featured Projects
 
 <div align="center">
-  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
-    
-    <!-- Card 1: DonDonDucky -->
-    <a href="https://github.com/gedeonkoh/DonDonDucky" style="text-decoration:none; color:inherit;">
-      <div style="width:320px; background:#F5EFE7; border-radius:16px; padding:16px; box-shadow:0 2px 10px rgba(0,0,0,0.06); text-align:left;">
-        <div style="display:flex; gap:12px; align-items:center;">
-          <div style="width:64px; height:64px; border-radius:14px; background:#fff8f1; border:2px dashed #A67B5B;"></div>
-          <div>
-            <div style="font-weight:700; color:#2B1E16;">DonDonDucky</div>
-            <div style="font-size:12px; color:#6F4E37;">Playful interactive game experience</div>
-          </div>
-        </div>
-        <div style="margin-top:12px; color:#2B1E16; font-size:14px; line-height:1.5;">
-          A lighthearted, responsive game — built for fun and delight.
-        </div>
-      </div>
-    </a>
-    
-    <!-- Card 2: Desmos Graphing -->
-    <a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator" style="text-decoration:none; color:inherit;">
-      <div style="width:320px; background:#F5EFE7; border-radius:16px; padding:16px; box-shadow:0 2px 10px rgba(0,0,0,0.06); text-align:left;">
-        <div style="display:flex; gap:12px; align-items:center;">
-          <div style="width:64px; height:64px; border-radius:14px; background:#fff8f1; border:2px dashed #A67B5B;"></div>
-          <div>
-            <div style="font-weight:700; color:#2B1E16;">Desmos Graphing</div>
-            <div style="font-size:12px; color:#6F4E37;">Image-based graphing calculator</div>
-          </div>
-        </div>
-        <div style="margin-top:12px; color:#2B1E16; font-size:14px; line-height:1.5;">
-          Turn images into graphs. Explore math with visual intuition.
-        </div>
-      </div>
-    </a>
-    
-    <!-- Card 3: More Projects -->
-    <a href="https://github.com/gedeonkoh?tab=repositories" style="text-decoration:none; color:inherit;">
-      <div style="width:320px; background:#F5EFE7; border-radius:16px; padding:16px; box-shadow:0 2px 10px rgba(0,0,0,0.06); text-align:left;">
-        <div style="display:flex; gap:12px; align-items:center;">
-          <div style="width:64px; height:64px; border-radius:14px; background:#fff8f1; border:2px dashed #A67B5B;"></div>
-          <div>
-            <div style="font-weight:700; color:#2B1E16;">More Projects</div>
-            <div style="font-size:12px; color:#6F4E37;">Explore all my work</div>
-          </div>
-        </div>
-        <div style="margin-top:12px; color:#2B1E16; font-size:14px; line-height:1.5;">
-          A collection of experiments, tools, and prototypes.
-        </div>
-      </div>
-    </a>
-    
-  </div>
+
+| | Project | Description | Stars | Language |
+|:---:|:---|:---|:---:|:---:|
+| 🎵 | [**MelodyBox**](https://github.com/gedeonkoh/MelodyBox) | Sleek music controller that lives in your Mac menu bar — control playback without switching windows | ![Stars](https://img.shields.io/github/stars/gedeonkoh/MelodyBox?color=9C6B4E&style=flat-square) | ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift) |
+| 🦆 | [**DonDonDucky**](https://github.com/gedeonkoh/DonDonDucky) | A lighthearted, responsive iOS focus timer with to-do lists, music integration, and Apple Calendar sync | ![Stars](https://img.shields.io/github/stars/gedeonkoh/DonDonDucky?color=9C6B4E&style=flat-square) | ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift) |
+| 📐 | [**Desmos Graphing**](https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator) | Turn any image into beautiful mathematical graphs — visual intuition meets calculus | ![Stars](https://img.shields.io/github/stars/gedeonkoh/Desmos-Image-Graphing-Calculator?color=9C6B4E&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) |
+| 🌊 | [**QuantumFlow**](https://github.com/gedeonkoh/QuantumFlow-Beta) | AI-powered productivity companion that automates calendar & task management through natural conversation | ![Stars](https://img.shields.io/github/stars/gedeonkoh/QuantumFlow-Beta?color=9C6B4E&style=flat-square) | ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift) |
+| 🌐 | [**ArcIcons**](https://github.com/gedeonkoh/ArcIcons) | A collection of commands that beautifully change the Arc Browser icon on macOS | ![Stars](https://img.shields.io/github/stars/gedeonkoh/ArcIcons?color=9C6B4E&style=flat-square) | ![Shell](https://img.shields.io/badge/-Shell-gray?style=flat-square&logo=gnubash) |
+| 🎮 | [**ChatGPT5 Games**](https://github.com/gedeonkoh/chatgpt5_games) | Profound games made with AI — experiments at the edge of creativity and play | ![Stars](https://img.shields.io/github/stars/gedeonkoh/chatgpt5_games?color=9C6B4E&style=flat-square) | ![Various](https://img.shields.io/badge/-Various-9C6B4E?style=flat-square) |
+| 📚 | [**More →**](https://github.com/gedeonkoh?tab=repositories) | A growing collection of experiments, tools, and prototypes | — | — |
+
 </div>
 
 ---
 
-## 📊 Metrics Dashboard
+<!-- ╔══════════════════════════╗ -->
+<!-- ║    GITHUB STATS          ║ -->
+<!-- ╚══════════════════════════╝ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Stats + Streak side by side -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=transparent&hide_border=true&title_color=9C6B4E&icon_color=A67B5B&text_color=6F4E37&bg_color=FFF8F1&count_private=true&include_all_commits=true" alt="Gedeon's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&theme=transparent&hide_border=true&title_color=9C6B4E&text_color=6F4E37&bg_color=FFF8F1&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=gedeonkoh&theme=transparent&hide_border=true&stroke=9C6B4E&ring=A67B5B&fire=C9A27E&currStreakNum=2B1E16&sideNums=2B1E16&currStreakLabel=9C6B4E&sideLabels=6F4E37&dates=A67B5B&background=FFF8F1" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<!-- Trophy Showcase -->
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gedeonkoh&theme=flat&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/gedeonkoh)
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════╗ -->
+<!-- ║  ACHIEVEMENTS TIMELINE  ║ -->
+<!-- ╚══════════════════════════╝ -->
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+```
+2025  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🥇  Bulky Waste To Wonder Champion       — Public Health Council
+  🌐  ICIA International Gold Award        — Krya Global 2024
+  🏅  SCOPA Outstanding CCA Award          — SST Singapore
+  🤝  Perplexity AI Business Fellowship    — Perplexity AI
+  🔬  Scientific Researcher                — National University of Singapore
+  🏫  ARC@SST Vice-Chairperson            — School of Science & Technology
+  🎓  Kahoot! Ambassador & Creator         — Kahoot!
+  🌱  Wakelet Community Leader             — Wakelet
+
+2024  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🥇  Bulky Waste To Wonder Champion       — Public Hygiene Council
+  🎙️  Special Commendation Best Presenter  — Republic Polytechnic Media Challenge
+  📸  Junior Media Club Photography EXCO  — SST Singapore
+  🔭  Science TDP EXCO                     — SST Singapore
+
+2023  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🤖  STEM Playground Grand Finale         — Science Centre Singapore
+  🎖️  Edusave Good Progress Award          — Ministry of Education SG
+  ♻️  Bulky Waste To Wonder Finalist       — Public Hygiene Council
+```
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════╗ -->
+<!-- ║   INNOCREATE! SPOTLIGHT  ║ -->
+<!-- ╚══════════════════════════╝ -->
+
+## 🌱 innocreate! — What I'm Building
+
+<div align="center">
+
+> *Teaching 3D modeling to underprivileged youth across Singapore — one workshop at a time.*
+
+</div>
+
+<table width="100%" align="center">
+<tr>
+<td align="center" width="33%">
+  <b>🏫 Rulang Primary</b><br/>
+  <sub>14 students • 3D Modeling Workshop</sub>
+</td>
+<td align="center" width="33%">
+  <b>🏫 Zhangde Primary</b><br/>
+  <sub>28 students • 3D Modeling Workshop</sub>
+</td>
+<td align="center" width="33%">
+  <b>🤝 Bagus Together</b><br/>
+  <sub>Partnership • Community Impact</sub>
+</td>
+</tr>
+</table>
+
+[![innocreate LinkedIn](https://img.shields.io/badge/Follow_innocreate!_journey-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gedeonkoh)
+
+---
+
+<!-- ╔══════════════════════════╗ -->
+<!-- ║     SKILLS MATRIX        ║ -->
+<!-- ╚══════════════════════════╝ -->
+
+## 🎯 Skills
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-EDE6DB?style=for-the-badge&logo=python&logoColor=2B1E16)
+![Swift](https://img.shields.io/badge/Swift-EDE6DB?style=for-the-badge&logo=swift&logoColor=F05138)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-EDE6DB?style=for-the-badge&logo=swift&logoColor=2B1E16)
+![JavaScript](https://img.shields.io/badge/JavaScript-EDE6DB?style=for-the-badge&logo=javascript&logoColor=2B1E16)
+![HTML5](https://img.shields.io/badge/HTML5-EDE6DB?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Jupyter](https://img.shields.io/badge/Jupyter-EDE6DB?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+**Tools & Platforms**
+
+![Xcode](https://img.shields.io/badge/Xcode-EDE6DB?style=for-the-badge&logo=xcode&logoColor=1575F9)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-EDE6DB?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Figma](https://img.shields.io/badge/Figma-EDE6DB?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Notion](https://img.shields.io/badge/Notion-EDE6DB?style=for-the-badge&logo=notion&logoColor=2B1E16)
+![Blender](https://img.shields.io/badge/Blender-EDE6DB?style=for-the-badge&logo=blender&logoColor=F5792A)
+![Apple](https://img.shields.io/badge/Apple_Teacher-EDE6DB?style=for-the-badge&logo=apple&logoColor=2B1E16)
+
+**AI & Research**
+
+![Perplexity](https://img.shields.io/badge/Perplexity_AI-EDE6DB?style=for-the-badge&logo=perplexity&logoColor=1FB8CD)
+![OpenAI](https://img.shields.io/badge/OpenAI-EDE6DB?style=for-the-badge&logo=openai&logoColor=2B1E16)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-EDE6DB?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Cisco](https://img.shields.io/badge/Cybersecurity_(Cisco)-EDE6DB?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════╗ -->
+<!-- ║   CONTRIBUTION GRAPH     ║ -->
+<!-- ╚══════════════════════════╝ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Gedeon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&bg_color=FFF8F1&color=9C6B4E&line=A67B5B&point=2B1E16&area=true&area_color=EDE6DB&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/gedeonkoh)
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════╗ -->
+<!-- ║      SOCIAL LINKS        ║ -->
+<!-- ╚══════════════════════════╝ -->
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gedeonkoh)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gedeonkohthegreat)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gedeonkoh/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gedeonkoh)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gedeonkoh)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/gedeonkohthegreat/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gedeonkoh)
+[![Beacons](https://img.shields.io/badge/Link_in_Bio-beacons.ai-A67B5B?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/gedeonkoh)
+
+</div>
+
+---
+
+<!-- CAPSULE RENDER — WAVE FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
+</p>
+
+<div align="center">
+  <sub>
+    <i>per aspera ad astra</i> &nbsp;·&nbsp; built with ☕ and curiosity
+  </sub>
+</div>
 
 <!--
-  To enable these, set up lowlighter/metrics in your profile repo (gedeonkoh/gedeonkoh).
-  The images below assume you commit generated SVGs to metrics/*.svg.
-  See the guidance at the bottom of this file for ready-to-copy endpoints.
+═══════════════════════════════════════════════════════════════
+  METRICS SETUP NOTES (for self-hosting with lowlighter/metrics)
+  ───────────────────────────────────────────────────────────────
+  The stats cards above use publicly available APIs that work
+  immediately. For advanced lowlighter/metrics SVGs, set up a
+  GitHub Actions workflow in this repo — see the guide below.
+
+  Workflow file: .github/workflows/metrics.yml
+  Template at: https://github.com/lowlighter/metrics
+
+  Key plugins to enable:
+    - isocalendar (half-year view)
+    - languages (in-depth analysis)
+    - habits (coding hours, streaks)
+    - achievements (badges & ranks)
+    - notable (contributions to others)
+    - activity (recent actions)
+═══════════════════════════════════════════════════════════════
 -->
-
-<div align="center">
-
-  <!-- Profile header metrics (classic with achievements) -->
-  <img alt="GitHub Metrics Profile" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-classic.svg" width="100%" />
-
-  <br/><br/>
-
-  <!-- Languages + ISO calendar -->
-  <div>
-    <img alt="Most used languages" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-languages.svg" height="300" />
-    <img alt="Activity calendar" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-iso-calendar.svg" height="300" />
-  </div>
-
-  <br/>
-
-  <!-- Habits + Repositories -->
-  <div>
-    <img alt="Coding habits" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-habits.svg" height="300" />
-    <img alt="Repositories" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-repositories.svg" height="300" />
-  </div>
-
-  <br/>
-
-  <!-- Achievements + Notable contributions -->
-  <div>
-    <img alt="Achievements" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-achievements.svg" height="300" />
-    <img alt="Notable contributions" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-notable.svg" height="300" />
-  </div>
-
-  <br/>
-
-  <!-- 3D contributions + PageSpeed -->
-  <div>
-    <img alt="3D Contributions" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-3d-contrib.svg" height="300" />
-    <img alt="PageSpeed Insights" src="https://github.com/gedeonkoh/gedeonkoh/blob/main/metrics/metrics-pagespeed.svg" height="300" />
-  </div>
-
-</div>
-
----
-
-## 🌐 Social Profiles
-
-<div align="center">
-
-<a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/A67B5B" width="32" height="32" alt="YouTube"/></a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/gedeonkoh" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/9C6B4E" width="32" height="32" alt="Facebook"/></a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/gedeonkoh/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/C9A27E" width="32" height="32" alt="Instagram"/></a>
-&nbsp;&nbsp;
-<a href="https://www.pinterest.com/gedeonkohthegreat/" title="Pinterest"><img src="https://cdn.simpleicons.org/pinterest/6F4E37" width="32" height="32" alt="Pinterest"/></a>
-&nbsp;&nbsp;
-<a href="https://x.com/gedeonkoh" title="X"><img src="https://cdn.simpleicons.org/x/2B1E16" width="32" height="32" alt="X"/></a>
-&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@gedeonkoh" title="TikTok"><img src="https://cdn.simpleicons.org/tiktok/A67B5B" width="32" height="32" alt="TikTok"/></a>
-
-</div>
-
----
-
-<!-- lowlighter/metrics setup help (keep commented) -->
-<!--
-  Suggested metrics endpoints to generate (examples):
-
-  - metrics-classic.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&base.repository=0&base.metadata=0&config.timezone=Asia/Singapore&isocalendar=1&isocalendar.duration=full-year&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact
-
-  - metrics-habits.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&config.timezone=Asia/Singapore&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true
-
-  - metrics-iso-calendar.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&isocalendar=1&isocalendar.duration=half-year
-
-  - metrics-languages.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true
-
-  - metrics-repositories.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&repositories=1&repositories.affiliations=owner&repositories.batch=100
-
-  - metrics-achievements.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact
-
-  - metrics-notable.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&notable=1&notable.repositories=true&notable.from=organization
-
-  - metrics-3d-contrib.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&config.timezone=Asia/Singapore&calendar=1&calendar.limit=1&calendar.legends=true&calendar.days=365&calendar.visibility=public&base=header,activity,community,metadata&plugin_lines=1&plugin_traffic=1&plugin_followup=1&plugin_calendar=1&plugin_isocalendar=1&plugin_contributors=1&plugin_habits=1
-
-  - metrics-pagespeed.svg:
-    https://metrics.lecoq.io/gedeonkoh?template=classic&base.header=0&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.url=https%3A%2F%2Fgithub.com%2Fgedeonkoh
--->
-
-<div align="center">
-  <sub>per aspera ad astra</sub>
-</div>
