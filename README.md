@@ -34,16 +34,15 @@
       </td>
       <td width="2%" bgcolor="#EDE6DB">&nbsp;</td>
       <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 20px; border-radius:18px; border-left:2px dashed #A67B5B;">
-        <!-- 📸 PHOTO PLACEHOLDER — swap the src below with your image URL -->
+        <!-- 📸 PHOTO PLACEHOLDER — swap the img src with your own photo URL when ready -->
         <img
-          src="https://via.placeholder.com/240x300/FFF8F1/A67B5B?text=📸+Your+Photo"
+          src="https://placehold.co/240x300/FFF8F1/A67B5B?text=Your+Photo+Here"
           alt="Photo placeholder — replace with your image"
           width="240"
           height="300"
-          style="border-radius:16px; border:2px dashed #A67B5B;"
         />
         <br/>
-        <sub><i>Replace img src with your photo link · 240 × 300 px</i></sub>
+        <sub><i>Replace img src with your photo · 240 × 300 px</i></sub>
       </td>
     </tr>
   </table>
