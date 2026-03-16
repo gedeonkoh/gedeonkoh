@@ -39,7 +39,7 @@
           width="240"
           height="300"
         /><br/>
-        <sub><small><i>Presenting My Project at the Annual GT College International Science Project Competition (GTC-ISPC) 2025</i></small></sub>
+        <sub><small><i>Presenting My Project at the Annual GT College International Science Project Competition 2025</i></small></sub>
       </td>
     </tr>
   </table>
