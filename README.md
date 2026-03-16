@@ -68,7 +68,9 @@
 <!--                🚀  FEATURED PROJECTS                -->
 <!-- ════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+<h2 style="border-bottom:none">🚀 Featured Projects</h2>
+
+<div align="center">
 
 <!-- Row 1 — tight, no double br -->
 <a href="https://github.com/gedeonkoh/DonDonDucky">
