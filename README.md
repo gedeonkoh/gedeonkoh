@@ -31,6 +31,7 @@
           <img alt="Powered by Metrics" src="https://img.shields.io/badge/Powered_by-Metrics-6F4E37?style=for-the-badge&logo=github&logoColor=fff" />
         </a>
         <img alt="Coffee vibes" src="https://img.shields.io/badge/coffee_vibes-on-9C6B4E?style=for-the-badge" />
+      </td>
       <td width="2%" bgcolor="#EDE6DB">&nbsp;</td>
       <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 20px; border-radius:18px; border-left:2px dashed #A67B5B;">
         <img
@@ -41,7 +42,6 @@
         /><br/>
         <sub><small><i>Presenting My Project at the Annual GT College International Science Project Competition 2025</i></small></sub>
       </td>
-
     </tr>
   </table>
 </div>
