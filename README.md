@@ -183,22 +183,22 @@
 <div align="center">
 
 <a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube">
-  <img src="https://cdn.simpleicons.org/youtube/A67B5B" width="60" height="60" alt="YouTube"/>
+  <img src="https://cdn.simpleicons.org/youtube/A67B5B" width="50" height="50" alt="YouTube"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/gedeonkoh" title="Facebook">
-  <img src="https://cdn.simpleicons.org/facebook/9C6B4E" width="60" height="60" alt="Facebook"/>
+  <img src="https://cdn.simpleicons.org/facebook/9C6B4E" width="50" height="50" alt="Facebook"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/gedeonkoh/" title="Instagram">
-  <img src="https://cdn.simpleicons.org/instagram/C9A27E" width="60" height="60" alt="Instagram"/>
+  <img src="https://cdn.simpleicons.org/instagram/C9A27E" width="50" height="50" alt="Instagram"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.pinterest.com/gedeonkohthegreat/" title="Pinterest">
-  <img src="https://cdn.simpleicons.org/pinterest/6F4E37" width="60" height="60" alt="Pinterest"/>
+  <img src="https://cdn.simpleicons.org/pinterest/6F4E37" width="50" height="50" alt="Pinterest"/>
 </a>&nbsp;&nbsp;
 <a href="https://x.com/gedeonkoh" title="X">
-  <img src="https://cdn.simpleicons.org/x/EDE6DB" width="60" height="60" alt="X"/>
+  <img src="https://cdn.simpleicons.org/x/EDE6DB" width="50" height="50" alt="X"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.tiktok.com/@gedeonkoh" title="TikTok">
-  <img src="https://cdn.simpleicons.org/tiktok/A67B5B" width="60" height="60" alt="TikTok"/>
+  <img src="https://cdn.simpleicons.org/tiktok/A67B5B" width="50" height="50" alt="TikTok"/>
 </a>
 
 </div>
