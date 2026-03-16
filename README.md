@@ -4,12 +4,12 @@
 
 <!-- CAPSULE RENDER — WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gedeon%20Koh&fontSize=70&fontColor=EDE6DB&animation=fadeIn&fontAlignY=35&desc=Creative%20Technologist%20%7C%20AI%20Researcher%20%7C%20Builder&descAlignY=58&descSize=18&descColor=C9A27E" />
+  <img src="" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&size=26&duration=3000&pause=800&color=9C6B4E&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hey+there%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%40+SST+Singapore+%F0%9F%8E%93;CEO+of+innocreate!+%F0%9F%9A%80;Perplexity+AI+Business+Fellow+2025+%F0%9F%A7%A0;ARC%40SST+Vice+Chairperson+%F0%9F%94%AC;Bulky+Waste+To+Wonder+Champion+%F0%9F%8F%86;Creative+Technologist+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=SF+Pro+Text&size=26&duration=3000&pause=800&color=9C6B4E&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hey+there%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%40+SST+Singapore+%F0%9F%8E%93;CEO+of+innocreate!+%F0%9F%9A%80;Perplexity+AI+Business+Fellow+2025+%F0%9F%A7%A0;ARC%40SST+Vice+Chairperson+%F0%9F%94%AC;Bulky+Waste+To+Wonder+Champion+%F0%9F%8F%86;Creative+Technologist+%F0%9F%92%A1](https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" alt="Gedeon Koh banner" width="100%)" alt="Typing SVG" />
 </div>
 
 <br/>
