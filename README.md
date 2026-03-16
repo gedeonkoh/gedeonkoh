@@ -70,8 +70,6 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 <!-- Row 1 — tight, no double br -->
 <a href="https://github.com/gedeonkoh/DonDonDucky">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
