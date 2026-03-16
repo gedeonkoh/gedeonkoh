@@ -157,7 +157,7 @@
 <!--           🎯  LANGUAGES — SKILL ICON STYLE          -->
 <!-- ════════════════════════════════════════════════════ -->
 
-## 🤟 Languages
+## 🤟🎸 Languages
 
 <div align="center">
 
