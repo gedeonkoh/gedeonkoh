@@ -96,8 +96,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 <br/>
@@ -145,8 +143,6 @@
 
 ---
 
-<br/>
-
 ## 🤟🎸 Languages
 
 <div align="center">
@@ -160,8 +156,6 @@
 <br/>
 
 ---
-
-<br/>
 
 ## 🌐 Social Profiles
 
