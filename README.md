@@ -199,9 +199,6 @@
 </a>&nbsp;&nbsp;
 <a href="https://www.tiktok.com/@gedeonkoh" title="TikTok">
   <img src="https://cdn.simpleicons.org/tiktok/A67B5B" width="32" height="32" alt="TikTok"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gedeonkoh" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/9C6B4E" width="32" height="32" alt="LinkedIn"/>
 </a>
 
 </div>
