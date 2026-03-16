@@ -44,7 +44,7 @@
         <div style="font-size:11px; font-style:italic; color:#6F4E37; padding:0 4px; line-height:1.4;">Presenting My Project at the Annual GT College International Science Project Compeition 2025</div>
       </td>
     </tr>
-  </table>
+</table>
 </div>
 
 <br/>
@@ -71,34 +71,14 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<table cellpadding="0" cellspacing="6" width="100%">
-<tr valign="top">
-<td width="50%">
-<a href="https://github.com/gedeonkoh/DonDonDucky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
-</td>
-<td width="50%">
-<a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=Desmos-Image-Graphing-Calculator&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
-</td>
-</tr>
-<tr valign="top">
-<td width="50%">
-<a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
-</td>
-<td width="50%">
-<a href="https://github.com/gedeonkoh/ArcIcons"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=ArcIcons&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
-</td>
-</tr>
-<tr valign="top">
-<td width="50%">
-<a href="https://github.com/gedeonkoh/MelodyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
-</td>
-<td width="50%">
-<a href="https://github.com/gedeonkoh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=gedeonkoh&hide_border=true&bg_color=3D2A1E&title_color=EDE6DB&icon_color=C9A27E&text_color=C9A27E&border_radius=16" width="100%" /></a>
-</td>
-</tr>
-</table>
-</div>
+<!-- Row 1 -->
+<a href="https://github.com/gedeonkoh/DonDonDucky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a><a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=Desmos-Image-Graphing-Calculator&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a>
+
+<!-- Row 2 -->
+<a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a><a href="https://github.com/gedeonkoh/ArcIcons"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=ArcIcons&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a>
+
+<!-- Row 3 -->
+<a href="https://github.com/gedeonkoh/MelodyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a><a href="https://github.com/gedeonkoh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=gedeonkoh&hide_border=true&bg_color=3D2A1E&title_color=EDE6DB&icon_color=C9A27E&text_color=C9A27E&border_radius=16" width="49%" /></a>
 
 <br/>
 
