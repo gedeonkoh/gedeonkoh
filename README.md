@@ -137,15 +137,7 @@
     width="97%" alt="GitHub Streak" />
 </picture>
 
-<br/><br/>
-
-<!-- Trophies -->
-<a href="https://github.com/gedeonkoh">
-  <img src="https://github-profile-trophy.vercel.app/?username=gedeonkoh&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=4&column=6"
-    alt="GitHub Trophies" width="97%" />
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- Activity graph -->
 <a href="https://github.com/gedeonkoh">
