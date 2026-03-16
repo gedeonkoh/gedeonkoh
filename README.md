@@ -39,7 +39,7 @@
           alt="Gedeon Koh"
           width="240"
           height="300"
-        /><br/><small><small><i>Presenting My Project at the Annual GT College International Science Project Competition 2025</i></small></small>
+        /><br/><sub><small><i>Presenting My Project at the Annual GT College International Science Project Competition 2025</i></small></sub>
       </td>
     </tr>
   </table>
