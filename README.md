@@ -72,70 +72,31 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-<table cellpadding="0" cellspacing="8" width="100%">
-
-<!-- Row 1 -->
-<tr>
-  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
-    <a href="https://github.com/gedeonkoh/DonDonDucky" style="text-decoration:none;">
-      <b style="color:#C9A27E; font-size:15px;">🖥️ DonDonDucky</b>
-    </a><br/><br/>
-    <span style="color:#EDE6DB; font-size:13px;">A beautiful focus timer app for iOS with to-do lists, music integration, Apple Calendar sync, widgets, and more. Built with SwiftUI.</span><br/><br/>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/github/stars/gedeonkoh/DonDonDucky?style=flat-square&color=A67B5B&labelColor=2B1E16" />
-  </td>
-  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
-    <a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator" style="text-decoration:none;">
-      <b style="color:#C9A27E; font-size:15px;">🖥️ Desmos-Image-Graphing-Calculator</b>
-    </a><br/><br/>
-    <span style="color:#EDE6DB; font-size:13px;">Desmos Image Graphing Calculator helps you make beautiful pieces of art just from an image.</span><br/><br/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/github/forks/gedeonkoh/Desmos-Image-Graphing-Calculator?style=flat-square&color=A67B5B&labelColor=2B1E16" />
-  </td>
+<table cellpadding="0" cellspacing="6" width="100%">
+<tr valign="top">
+<td width="50%">
+<a href="https://github.com/gedeonkoh/DonDonDucky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=Desmos-Image-Graphing-Calculator&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
+</td>
 </tr>
-
-<tr><td colspan="2" height="8"></td></tr>
-
-<!-- Row 2 -->
-<tr>
-  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
-    <a href="https://github.com/gedeonkoh/QuantumFlow-Beta" style="text-decoration:none;">
-      <b style="color:#C9A27E; font-size:15px;">🖥️ QuantumFlow-Beta</b>
-    </a><br/><br/>
-    <span style="color:#EDE6DB; font-size:13px;">Sleek in every way. The first working Changemaker app in SST. Made by Gedeon Koh, Arnab Ghosh and Gregory Tay.</span><br/><br/>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/github/stars/gedeonkoh/QuantumFlow-Beta?style=flat-square&color=A67B5B&labelColor=2B1E16" />
-  </td>
-  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
-    <a href="https://github.com/gedeonkoh/ArcIcons" style="text-decoration:none;">
-      <b style="color:#C9A27E; font-size:15px;">🖥️ ArcIcons</b>
-    </a><br/><br/>
-    <span style="color:#EDE6DB; font-size:13px;">A collection of commands that change the Arc Browser icon on macOS.</span><br/><br/>
-    <img src="https://img.shields.io/github/stars/gedeonkoh/ArcIcons?style=flat-square&color=A67B5B&labelColor=2B1E16" />
-  </td>
+<tr valign="top">
+<td width="50%">
+<a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/gedeonkoh/ArcIcons"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=ArcIcons&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
+</td>
 </tr>
-
-<tr><td colspan="2" height="8"></td></tr>
-
-<!-- Row 3 -->
-<tr>
-  <td width="50%" valign="top" bgcolor="#2B1E16" style="padding:20px 22px; border-radius:16px; height:140px;">
-    <a href="https://github.com/gedeonkoh/MelodyBox" style="text-decoration:none;">
-      <b style="color:#C9A27E; font-size:15px;">🖥️ MelodyBox</b>
-    </a><br/><br/>
-    <span style="color:#EDE6DB; font-size:13px;">MelodyBox is a lightweight and elegant Mac application that brings your music controls right to the menu bar.</span><br/><br/>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/github/stars/gedeonkoh/MelodyBox?style=flat-square&color=A67B5B&labelColor=2B1E16" />
-  </td>
-  <td width="50%" valign="top" bgcolor="#3D2A1E" style="padding:20px 22px; border-radius:16px; height:140px;">
-    <a href="https://github.com/gedeonkoh" style="text-decoration:none;">
-      <b style="color:#EDE6DB; font-size:15px;">🖥️ gedeonkoh</b>
-    </a><br/><br/>
-    <span style="color:#C9A27E; font-size:13px;">Student Innovator in Programming &amp; AI • Perplexity AI Business Fellow 2025 • ARC@SST Vice Chairperson • Three Time Bulky Waste To Wonder Finalist.</span><br/><br/>
-    <img src="https://img.shields.io/github/stars/gedeonkoh/gedeonkoh?style=flat-square&color=C9A27E&labelColor=3D2A1E" />
-  </td>
+<tr valign="top">
+<td width="50%">
+<a href="https://github.com/gedeonkoh/MelodyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/gedeonkoh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=gedeonkoh&hide_border=true&bg_color=3D2A1E&title_color=EDE6DB&icon_color=C9A27E&text_color=C9A27E&border_radius=16" width="100%" /></a>
+</td>
 </tr>
-
 </table>
 </div>
 
@@ -187,10 +148,6 @@
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════ -->
-<!--           🎯  LANGUAGES — SKILL ICON STYLE          -->
-<!-- ════════════════════════════════════════════════════ -->
-
 ## 🤟🎸 Languages
 
 <div align="center">
@@ -206,10 +163,6 @@
 ---
 
 <br/>
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--                🌐  SOCIAL PROFILES                  -->
-<!-- ════════════════════════════════════════════════════ -->
 
 ## 🌐 Social Profiles
 
