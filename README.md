@@ -36,7 +36,7 @@
       <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 20px; border-radius:18px; border-left:2px dashed #A67B5B;">
         <!-- 📸 PHOTO PLACEHOLDER — swap the img src with your own photo URL when ready -->
         <img
-          src="https://placehold.co/240x300/FFF8F1/A67B5B?text=Your+Photo+Here"
+          src="https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" alt="Gedeon Koh banner"
           alt="Photo placeholder — replace with your image"
           width="240"
           height="300"
@@ -144,14 +144,6 @@
   <img src="https://streak-stats.demolab.com/?user=gedeonkoh&hide_border=true&border_radius=16&background=00000000&stroke=6F4E37&ring=9C6B4E&fire=A67B5B&currStreakNum=2B1E16&sideNums=2B1E16&currStreakLabel=9C6B4E&sideLabels=6F4E37&dates=A67B5B"
     height="170" alt="GitHub Streak" />
 </picture>
-
-<br/><br/>
-
-<!-- Trophies -->
-<a href="https://github.com/gedeonkoh">
-  <img src="https://github-profile-trophy.vercel.app/?username=gedeonkoh&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=4&column=6"
-    alt="GitHub Trophies" />
-</a>
 
 <br/><br/>
 
