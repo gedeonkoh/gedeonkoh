@@ -25,6 +25,7 @@
   <table width="860" cellpadding="0" cellspacing="0">
     <tr>
       <td width="58%" valign="top" bgcolor="#EDE6DB" style="padding:28px 26px; border-radius:18px;">
+        <br/>
         <font size="5"><strong>Crafting systems at the edge of AI, hardware, and human-centered design.</strong></font><br/><br/>
         Building playful, purposeful tech — from embedded gadgets to intelligent software. Making the world a better place once and for all. Always shipping, always learning.<br/><br/>
         </a>
