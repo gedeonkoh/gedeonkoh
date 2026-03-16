@@ -71,14 +71,20 @@
 
 ## 🚀 Featured Projects
 
-<!-- Row 1 -->
-<a href="https://github.com/gedeonkoh/DonDonDucky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a><a href="https://github.com/gedeonkoh/DonDonDucky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a>
-
-<!-- Row 2 -->
-<a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a><a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a>
-
-<!-- Row 3 -->
-<a href="https://github.com/gedeonkoh/MelodyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a><a href="https://github.com/gedeonkoh/MelodyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="49%" /></a>
+<table cellspacing="6" cellpadding="0" width="100%" style="border-collapse:separate; border:none; background:transparent;">
+<tr>
+<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/DonDonDucky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
+<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/DonDonDucky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
+<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/MelodyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
+<td width="50%" style="border:none; padding:0;"><a href="https://github.com/gedeonkoh/MelodyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="100%" /></a></td>
+</tr>
+</table>
 
 <br/>
 
