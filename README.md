@@ -1,187 +1,484 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   GEDEON KOH — PROFILE README v4                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<!--
-  Coffee Palette
-  Espresso  #2B1E16  |  Mocha  #6F4E37  |  Caramel #A67B5B
-  Latte     #C9A27E  |  Cream  #EDE6DB  |  Accent  #9C6B4E
--->
-
-<!-- ═══ ORIGINAL BANNER ═══ -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" alt="Gedeon Koh banner" width="100%" />
-</p>
-
-<!-- ═══ TYPING ANIMATION ═══ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&size=38&duration=3000&pause=1000&color=9C6B4E&center=true&vCenter=true&width=720&height=60&lines=Hey%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%F0%9F%8E%93;Creative+Technologist+%F0%9F%92%A1;AI+%26+Systems+Researcher+%F0%9F%A7%A0" alt="Typing SVG" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Gedeon%20Koh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Researcher%20•%20AI%20Builder%20•%20Software%20Engineer&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineering+%7C+AI+%2F+ML+%7C+Product+Development;Scientific+Researcher+at+National+University+of+Singapore;Founder+and+CEO+of+Innocreate;Applied+Research+%7C+Innovation+%7C+Open+Source;Building+Technology+for+Real-World+Impact"/>
 
 <br/>
 
-<!-- ═══ INTRO CARD ═══ -->
-<div align="center">
-  <table width="860" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="58%" valign="top" bgcolor="#EDE6DB" style="padding:28px 26px; border-radius:18px;">
-        <br/>
-        <font size="5"><strong>Crafting systems at the edge of AI, hardware, and human-centered design.</strong></font><br/><br/>
-        Building playful, purposeful tech — from embedded gadgets 🤖 to intelligent software 💡. Making the world a better place once and for all 🌎. Always shipping, always learning.<br/><br/>
-        </a>
-        <img alt="Coffee vibes" src="https://img.shields.io/badge/coffee_vibes-on-9C6B4E?style=for-the-badge" />
-      </td>
-      <td width="2%" bgcolor="#EDE6DB">&nbsp;</td>
-      <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 20px; border-radius:18px; border-left:2px dashed #A67B5B;">
-        <img
-          src="https://github.com/gedeonkoh/gedeonkoh/blob/4a670fe1653db768265166ef8e28ba4e06b382d6/A7B7DAA6-6372-4E72-9477-5A92A76A4C0B_1_105_c.jpeg"
-          alt="Gedeon Koh"
-          width="240"
-          height="300"
-        /><br/>
-        <sub><small><i>Presenting My Project at the Annual GT College International Science Project Competition (GTC-ISPC) 2025</i></small></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+![](https://img.shields.io/badge/School%20of%20Science%20and%20Technology-Singapore-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/NUS-Scientific%20Researcher-4C1D95?style=for-the-badge)
+![](https://img.shields.io/badge/Perplexity-AI%20Business%20Fellow-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Kahoot!-Ambassador%20%26%20Verified%20Creator-A855F7?style=for-the-badge)
 
-<br/>
+![](https://img.shields.io/badge/Location-Singapore-4338CA?style=for-the-badge)
 
-<!-- ═══ QUICK LINKS ═══ -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gedeonkoh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gedeonkoh)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-beacons.ai-A67B5B?style=flat-square&logo=linktree&logoColor=white)](https://beacons.ai/gedeonkoh)&nbsp;
-[![Perplexity Fellow](https://img.shields.io/badge/Perplexity-AI_Fellow_2025-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)](https://perplexity.ai)&nbsp;
-![Views](https://img.shields.io/badge/PROFILE_VIEWS-6.7k%2B-9C6B4E?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--                🚀  FEATURED PROJECTS                -->
-<!-- ════════════════════════════════════════════════════ -->
-
-<h2 style="border-bottom:none">🚀 Featured Projects</h2>
-
-<div align="center">
-
-<!-- Row 1 — tight, no double br -->
-<a href="https://github.com/gedeonkoh/DonDonDucky">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=DonDonDucky&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
-</a>
-<a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=Desmos-Image-Graphing-Calculator&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
+<a href="https://beacons.ai/gedeonkoh">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<!-- Row 2 -->
-<a href="https://github.com/gedeonkoh/QuantumFlow-Beta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=QuantumFlow-Beta&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
-</a>
-<!-- ⚡ STRIKA — replace ArcIcons with your Strika repo name when ready -->
-<a href="https://github.com/gedeonkoh/ArcIcons">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=ArcIcons&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
+<a href="https://linkedin.com/in/gedeonkoh">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- Row 3 -->
-<!-- 🧭 VIA — replace MelodyBox with your Via repo name when ready -->
-<a href="https://github.com/gedeonkoh/MelodyBox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=MelodyBox&hide_border=true&bg_color=2B1E16&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&border_radius=16" width="48%" />
-</a>
-<a href="https://github.com/gedeonkoh?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gedeonkoh&repo=gedeonkoh&hide_border=true&bg_color=3D2A1E&title_color=EDE6DB&icon_color=C9A27E&text_color=C9A27E&border_radius=16" width="48%" />
+<a href="mailto:coolhango451@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--                📊  GITHUB STATS                     -->
-<!-- ════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Stats + Languages — same row, width set so they fill the container edge-to-edge -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&hide_border=true&border_radius=16&bg_color=00000000&title_color=C9A27E&icon_color=A67B5B&text_color=EDE6DB&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&hide_border=true&border_radius=16&bg_color=00000000&title_color=9C6B4E&icon_color=A67B5B&text_color=2B1E16&count_private=true&include_all_commits=true&rank_icon=github"
-    width="56%" alt="GitHub Stats" />
-</picture><picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&hide_border=true&border_radius=16&bg_color=00000000&title_color=C9A27E&text_color=EDE6DB&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&hide_border=true&border_radius=16&bg_color=00000000&title_color=9C6B4E&text_color=2B1E16&langs_count=6"
-    width="40%" alt="Top Languages" />
-</picture>
-
-<!-- Streak — full width, no gap -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=gedeonkoh&hide_border=true&border_radius=16&background=00000000&stroke=6F4E37&ring=9C6B4E&fire=C9A27E&currStreakNum=EDE6DB&sideNums=EDE6DB&currStreakLabel=C9A27E&sideLabels=A67B5B&dates=6F4E37" />
-  <img src="https://streak-stats.demolab.com/?user=gedeonkoh&hide_border=true&border_radius=16&background=00000000&stroke=6F4E37&ring=9C6B4E&fire=A67B5B&currStreakNum=2B1E16&sideNums=2B1E16&currStreakLabel=9C6B4E&sideLabels=6F4E37&dates=A67B5B"
-    width="97%" alt="GitHub Streak" />
-</picture>
-
-<br/>
-
-<!-- Activity graph -->
 <a href="https://github.com/gedeonkoh">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&bg_color=00000000&color=A67B5B&line=9C6B4E&point=C9A27E&area=true&area_color=2B1E16&hide_border=true&custom_title=Contribution%20Activity&radius=16"
-    alt="Contribution Graph" width="97%" />
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 <br/>
 
----
-
-## 🤟🎸 Languages
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=swift,python,cpp,jupyter&theme=dark&perline=4" alt="Swift Python C++ Jupyter" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-## 🌐 Social Profiles
-
-<div align="center">
-
-<a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube">
-  <img src="https://cdn.simpleicons.org/youtube/A67B5B" width="50" height="50" alt="YouTube"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/gedeonkoh" title="Facebook">
-  <img src="https://cdn.simpleicons.org/facebook/9C6B4E" width="50" height="50" alt="Facebook"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/gedeonkoh/" title="Instagram">
-  <img src="https://cdn.simpleicons.org/instagram/C9A27E" width="50" height="50" alt="Instagram"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.pinterest.com/gedeonkohthegreat/" title="Pinterest">
-  <img src="https://cdn.simpleicons.org/pinterest/6F4E37" width="50" height="50" alt="Pinterest"/>
-</a>&nbsp;&nbsp;
-<a href="https://x.com/gedeonkoh" title="X">
-  <img src="https://cdn.simpleicons.org/x/EDE6DB" width="50" height="50" alt="X"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@gedeonkoh" title="TikTok">
-  <img src="https://cdn.simpleicons.org/tiktok/A67B5B" width="50" height="50" alt="TikTok"/>
-</a>
+![](https://komarev.com/ghpvc/?username=gedeonkoh&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/gedeonkoh?style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/stars/gedeonkoh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8B5CF6)
 
 </div>
 
 ---
 
-<!-- ═══ FOOTER WAVE ═══ -->
+# About
+
+Software engineer, AI practitioner, scientific researcher, and product builder focused on developing technology that creates measurable real-world impact.
+
+Currently conducting scientific research at the National University of Singapore while leading engineering, educational, and innovation initiatives through Innocreate. My work spans software engineering, artificial intelligence, applied research, sustainability innovation, digital literacy, and product development.
+
+I enjoy building systems at the intersection of:
+
+- Artificial Intelligence & Machine Learning
+- Full Stack Product Engineering
+- Applied Research & Scientific Innovation
+- Data Analytics & Decision Systems
+- Educational Technology
+- Sustainability & Climate Technologies
+- Human-Centered Product Design
+
+My engineering philosophy is simple:
+
+> Build products that solve meaningful problems, scale efficiently, and create lasting value.
+
+### Open To
+
+- Software Engineering Internships
+- AI / ML Engineering Roles
+- Research Collaborations
+- Open Source Contributions
+- Startup & Product Building Opportunities
+- STEM Education Partnerships
+- Innovation & Sustainability Projects
+
+---
+
+# Tech Stack
+
+### Languages
+
 <p align="center">
-  <img src="footer.svg" width="100%" alt="Smooth seas never made a great sailor" />
+<img src="https://skillicons.dev/icons?i=python,swift,javascript,typescript,java,cpp,c,html,css,bash" />
 </p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,supabase" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,linux,vscode,postman,vercel" />
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| Machine Learning | Advanced | Supervised Learning, Feature Engineering, Model Evaluation |
+| Generative AI | Advanced | LLM Applications, AI Agents, Prompt Engineering |
+| Data Science | Advanced | Analytics, Data Visualization, Research Data Processing |
+| Computer Vision | Intermediate | Image Analysis, Recognition Systems |
+| AI Product Development | Advanced | End-to-End AI Product Design & Deployment |
+| AI Strategy | Advanced | Business AI Adoption, Enterprise AI Workflows |
+| Applied Research | Advanced | Experimental Design, Scientific Investigation |
+| Automation | Advanced | Workflow Optimization & Productivity Systems |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🧠 BioWall — Sustainable Climate Technology System</b></summary>
+
+### Overview
+
+BioWall is a multi-layered bio-inspired environmental technology system integrating thermoregulation, renewable energy generation, air purification, and sustainability-focused engineering.
+
+| Metric | Details |
+|----------|----------|
+| Stack | Applied Research, Environmental Engineering, Data Analytics |
+| Scale | International Innovation Competition |
+| Performance | Multi-functional Passive Sustainability System |
+| Security | Experimental Validation Framework |
+| Impact | International Gold Award Winner |
+| Repository | Private Research Project |
+
+### Description
+
+BioWall combines:
+
+- Lotus-inspired superhydrophobic surfaces
+- Thermochromic and photonic thermal regulation
+- Algae-based carbon capture
+- Triboelectric energy generation
+
+The project earned Gold at the International Creativity & Innovation Award and represented Singapore on the international stage.
+
+</details>
+
+<details>
+<summary><b>🌍 Innocreate Platform</b></summary>
+
+### Overview
+
+Student-led initiative teaching 3D modelling and digital creation skills to young learners and underserved communities.
+
+| Metric | Details |
+|----------|----------|
+| Stack | Education Technology, Product Design |
+| Scale | Multi-School Deployment |
+| Performance | Workshop-Based Delivery |
+| Security | Educational Compliance |
+| Impact | National Recognition |
+| Repository | Organization Assets |
+
+### Description
+
+As Founder & CEO, I designed curriculum systems, operational workflows, partnerships, branding, and educational content that empower students to learn modern digital creation skills through practical workshops.
+
+</details>
+
+<details>
+<summary><b>⚡ Multifunctional Smart Flooring Research</b></summary>
+
+### Overview
+
+Research project conducted at NUS exploring energy harvesting and sustainable materials engineering.
+
+| Metric | Details |
+|----------|----------|
+| Stack | Python, Data Analytics, Electronics |
+| Scale | University Research |
+| Performance | Energy Harvesting Through Human Motion |
+| Security | Laboratory Research Standards |
+| Impact | Sustainable Materials Research |
+| Repository | Research Collaboration |
+
+### Description
+
+Developed multifunctional flooring utilizing triboelectric nanogenerator technologies while exploring sustainable alternatives through recycled material integration.
+
+</details>
+
+<details>
+<summary><b>🏆 SocialSpace</b></summary>
+
+### Overview
+
+Award-winning transformable furniture system promoting face-to-face interaction and community engagement.
+
+| Metric | Details |
+|----------|----------|
+| Stack | CAD, 3D Printing, Product Engineering |
+| Scale | National Competition |
+| Performance | Multi-Functional Architecture |
+| Security | Physical Product Validation |
+| Impact | National Champion |
+| Repository | Design Assets |
+
+### Description
+
+First Place winner of Singapore's Bulky Waste to Wonder Competition. SocialSpace transforms reclaimed materials into modular spaces for dining, recreation, work, and social interaction.
+
+</details>
+
+---
+
+# Experience
+
+## Scientific Researcher
+### National University of Singapore
+
+**March 2024 — Present**
+
+Conducting applied scientific research involving sustainable materials, triboelectric energy generation, prototyping, data analysis, and experimental validation.
+
+#### Scope
+
+- Research and prototype development
+- Experimental design
+- Data collection and analysis
+- Scientific documentation
+- Sustainability innovation
+
+**Skills:** `Research` `Python` `Data Analysis` `Electronics` `Scientific Writing`
+
+---
+
+## Founder & Chief Executive Officer
+### Innocreate
+
+**April 2024 — Present**
+
+Founded and scaled a student-led educational initiative focused on teaching 3D modelling and digital literacy to young learners across Singapore.
+
+#### Scope
+
+- Product leadership
+- Curriculum engineering
+- Strategic partnerships
+- Workshop delivery
+- Community engagement
+
+**Skills:** `Leadership` `Product Management` `Education Technology` `Public Speaking`
+
+---
+
+## Vice Chairperson
+### Applied Research Club @ SST
+
+**March 2025 — Present**
+
+Founding member of SST's Applied Research Club and responsible for research mentorship, operational planning, STEM outreach, and innovation initiatives.
+
+#### Scope
+
+- Research mentoring
+- STEM workshops
+- Event leadership
+- Administrative operations
+- Research space design
+
+**Skills:** `Research Leadership` `Project Management` `Mentorship`
+
+---
+
+## Kahoot! Ambassador & Verified Creator
+
+**November 2025 — Present**
+
+Representing Kahoot! within the education community while advocating innovative digital learning methodologies.
+
+#### Scope
+
+- Community engagement
+- Educational technology advocacy
+- Content creation
+- Global collaboration
+
+**Skills:** `EdTech` `Communication` `Community Building`
+
+---
+
+## Perplexity AI Business Fellow
+
+**2025 Cohort**
+
+Selected for an international AI leadership and strategy fellowship featuring experts from NVIDIA, Box, and Databricks.
+
+#### Scope
+
+- AI strategy
+- Business transformation
+- Enterprise AI
+- Innovation leadership
+
+**Skills:** `AI Strategy` `Product Thinking` `Leadership`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|------------|------------|
+| 🏆 GT College International Science Project Competition 2025 | Champion & Greatest Potential Award |
+| 🥇 Bulky Waste To Wonder Competition 2025 | First Place |
+| 🥇 Bulky Waste To Wonder Competition 2024 | First Place |
+| 🏅 Bulky Waste To Wonder Competition 2023 | Merit Award |
+| 🏆 International Creativity & Innovation Award | Gold Award |
+| 🏆 Republic Polytechnic Media Challenge | Best Presentation Award |
+| 🥇 SST × SUTD Drone Competition | First Place |
+| 🏆 SST CCA Outstanding Performance Award | Performance Award |
+| 🏆 SST Innofest | Best Prototype Award |
+| 🥉 SST Student Congress | 2nd Runner-Up |
+| 🥈 STEM Untamed Playground Finale | 2nd Runner-Up |
+| 🌏 BSS × SST Exchange Programme | Singapore Representative |
+| 🤝 GALESS 2025 | Student Organizer & Emcee |
+
+</div>
+
+---
+
+# Certifications
+
+### AWS
+
+![](https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws)
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Path-232F3E?style=for-the-badge&logo=amazonaws)
+
+### Oracle
+
+![](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle)
+![](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle)
+
+### Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+![](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)
+
+### NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Engineering%20Learning-5B21B6?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Skills%20Verification-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gedeonkoh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonkoh&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonkoh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gedeonkoh&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gedeonkoh&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gedeonkoh/gedeonkoh/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Advanced Machine Learning
+  - AI Agents & Autonomous Systems
+  - Cloud Architecture
+  - Full Stack Engineering
+
+building:
+  - Innocreate Expansion
+  - AI-Powered Applications
+  - Research-Based Sustainability Projects
+  - Open Source Software
+
+exploring:
+  - Generative AI
+  - Multi-Agent Systems
+  - Product Engineering
+  - Startup Development
+
+open_to:
+  - Research Collaborations
+  - Software Engineering Opportunities
+  - AI Engineering Projects
+  - Open Source Contributions
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:coolhango451@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/gedeonkoh">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gedeonkoh">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://beacons.ai/gedeonkoh">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering meaningful technology that transforms ideas into measurable impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
+
+</div>
