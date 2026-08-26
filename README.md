@@ -59,20 +59,6 @@
 
 ---
 
-## 🤟🎸 Languages
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=swift,python,cpp,jupyter&theme=dark&perline=4" alt="Swift Python C++ Jupyter" />
-</a>
-
-</div>
-
-<br/>
-
----
-
 ## 🌐 Social Profiles
 
 <div align="center">
