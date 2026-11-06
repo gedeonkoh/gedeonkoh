@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="5500" height="2794" alt="gedeon2" src="https://github.com/user-attachments/assets/32516440-e67a-45fa-aa6f-90c2e81931c7" />
-</p>
-
 <p align="right"><sub>field notes &nbsp; / &nbsp; 00</sub></p>
 
 # gedeon koh
@@ -69,3 +65,7 @@ i’m a young engineer, researcher and builder. electronics, software, machine l
 ---
 
 <p align="right"><sub><a href="https://www.linkedin.com/in/gedeonkoh">linkedin</a> &nbsp; / &nbsp; <a href="https://beacons.ai/gedeonkoh">portfolio</a></sub></p>
+
+<p align="center">
+  <img width="5500" height="2794" alt="gedeon2" src="https://github.com/user-attachments/assets/32516440-e67a-45fa-aa6f-90c2e81931c7" />
+</p>
