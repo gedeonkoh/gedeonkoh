@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="340" viewbox="0 0 640 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="340" viewBox="0 0 640 340" role="img" aria-labelledby="title desc">
   <title id="title">desmosify, contour to curve</title>
   <desc id="desc">an image contour resolves into a plotted curve on a coordinate grid.</desc>
   <rect width="640" height="340" fill="#f2f0e9"/>
-  <path d="m24 24h592v292h24z" fill="none" stroke="#22231f" stroke-width="1"/>
+  <path d="M24 24h592v292H24z" fill="none" stroke="#22231f" stroke-width="1"/>
   <text x="42" y="58" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#595a54">image → equation / opencv</text>
   <text x="564" y="62" font-family="monospace" font-size="30" text-anchor="end" fill="#e85427">01</text>
-  <path d="m54 102h532m54 142h532m54 182h532m54 222h532m54 262h532m94 82v198m134 82v198m174 82v198m214 82v198m254 82v198m294 82v198m334 82v198m374 82v198m414 82v198m454 82v198m494 82v198m534 82v198m574 82v198" stroke="#d6d3c9" stroke-width="1"/>
-  <path d="m54 222h532m294 82v198" stroke="#22231f" stroke-width="1.5"/>
-  <path d="m94 220c16-1 23-16 35-16 13 0 15 30 31 30 16 0 18-47 36-47 18 0 19 53 38 53 18 0 23-75 43-75 19 0 18 38 38 38 20 0 20-66 42-66 19 0 21 36 39 36 18 0 21-59 44-59 21 0 22 31 42 31 18 0 19-22 33-23" fill="none" stroke="#e85427" stroke-width="4" stroke-linecap="round"/>
-  <path d="m94 221l12-12 13 8 10-13 10 10" fill="none" stroke="#22231f" stroke-width="2" stroke-dasharray="3 4"/>
+  <path d="M54 102h532M54 142h532M54 182h532M54 222h532M54 262h532M94 82v198M134 82v198M174 82v198M214 82v198M254 82v198M294 82v198M334 82v198M374 82v198M414 82v198M454 82v198M494 82v198M534 82v198M574 82v198" stroke="#d6d3c9" stroke-width="1"/>
+  <path d="M54 222h532M294 82v198" stroke="#22231f" stroke-width="1.5"/>
+  <path d="M94 220c16-1 23-16 35-16 13 0 15 30 31 30 16 0 18-47 36-47 18 0 19 53 38 53 18 0 23-75 43-75 19 0 18 38 38 38 20 0 20-66 42-66 19 0 21 36 39 36 18 0 21-59 44-59 21 0 22 31 42 31 18 0 19-22 33-23" fill="none" stroke="#e85427" stroke-width="4" stroke-linecap="round"/>
+  <path d="M94 221l12-12 13 8 10-13 10 10" fill="none" stroke="#22231f" stroke-width="2" stroke-dasharray="3 4"/>
   <circle cx="94" cy="221" r="4" fill="#22231f"/><circle cx="574" cy="122" r="4" fill="#e85427"/>
   <text x="42" y="302" font-family="monospace" font-size="11" letter-spacing="1" fill="#595a54">pixels in</text>
   <text x="586" y="302" font-family="monospace" font-size="11" letter-spacing="1" text-anchor="end" fill="#595a54">curves out</text>
