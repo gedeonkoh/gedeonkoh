@@ -83,10 +83,3 @@
 </a>
 
 </div>
-
----
-
-<!-- ═══ FOOTER WAVE ═══ -->
-<p align="center">
-  <img src="footer.svg" width="100%" alt="Smooth seas never made a great sailor" />
-</p>
