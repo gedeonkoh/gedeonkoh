@@ -31,7 +31,7 @@ i’m a young engineer, researcher and builder. electronics, software, machine l
 
 ---
 
-<p><sub>02 &nbsp; / &nbsp; focus, with a duck</sub></p>
+<p><sub>02 &nbsp; / &nbsp; focus, with a duck (and technically also an axolotl) </sub></p>
 
 <a href="https://github.com/gedeonkoh/DonDonDucky"><img align="left" width="48%" src="./assets/dondondducky.svg" alt="a duck-shaped focus timer with focus and break segments" /></a>
 
