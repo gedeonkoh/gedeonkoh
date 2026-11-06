@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="340" viewBox="0 0 640 340" role="img" aria-labelledby="title desc">
+  <title id="title">spamurai, mail-flow study</title>
+  <desc id="desc">An abstract envelope and message batch diagram, marked as an SMTP study.</desc>
+  <rect width="640" height="340" fill="#22231f"/>
+  <path d="M24 24h592v292H24z" fill="none" stroke="#85867e" stroke-width="1"/>
+  <text x="42" y="58" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#d6d3c9">SMTP / MESSAGE BATCHING</text>
+  <text x="564" y="62" font-family="monospace" font-size="30" text-anchor="end" fill="#e85427">03</text>
+  <path d="M92 126h116v84H92z" fill="none" stroke="#f2f0e9" stroke-width="2"/>
+  <path d="m92 128 58 46 58-46" fill="none" stroke="#e85427" stroke-width="3"/>
+  <path d="M208 168h50m0 0-10-9m10 9-10 9" fill="none" stroke="#f2f0e9" stroke-width="2"/>
+  <g fill="none" stroke="#f2f0e9" stroke-width="1.5">
+    <rect x="272" y="111" width="88" height="27"/><rect x="286" y="151" width="88" height="27"/>
+    <rect x="300" y="191" width="88" height="27"/><rect x="314" y="231" width="88" height="27"/>
+  </g>
+  <path d="M402 124h74M416 164h60M430 204h46M444 244h32" stroke="#e85427" stroke-width="2" stroke-dasharray="4 5"/>
+  <circle cx="492" cy="124" r="4" fill="#e85427"/><circle cx="492" cy="164" r="4" fill="#e85427"/><circle cx="492" cy="204" r="4" fill="#e85427"/><circle cx="492" cy="244" r="4" fill="#e85427"/>
+  <path d="M524 111h54v147h-54z" fill="none" stroke="#f2f0e9" stroke-width="2"/>
+  <path d="M536 132h30M536 148h30M536 164h20M536 191h30M536 207h30M536 223h20" stroke="#85867e" stroke-width="2"/>
+  <path d="M508 105l74 160" stroke="#e85427" stroke-width="3"/>
+  <text x="42" y="294" font-family="monospace" font-size="11" letter-spacing="1" fill="#d6d3c9">A STUDY OF MAIL ABUSE PATTERNS</text>
+  <text x="586" y="294" font-family="monospace" font-size="10" text-anchor="end" fill="#e85427">CONTROLLED ANALYSIS</text>
+</svg>
