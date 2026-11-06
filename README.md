@@ -65,3 +65,7 @@ i’m a young engineer, researcher and builder. electronics, software, machine l
   - **spamurai.py** — python scripts for timed smtp message batches and phishing-style templates. the repository describes misuse risks; keep any testing confined to accounts and systems you control.
 
 </details>
+
+---
+
+<p align="right"><sub><a href="https://www.linkedin.com/in/gedeonkoh">linkedin</a> &nbsp; / &nbsp; <a href="https://beacons.ai/gedeonkoh">portfolio</a></sub></p>
