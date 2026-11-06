@@ -15,7 +15,7 @@
 
 <!-- ═══ TYPING ANIMATION ═══ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&size=38&duration=3000&pause=1000&color=9C6B4E&center=true&vCenter=true&width=720&height=60&lines=Hey%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%F0%9F%8E%93;Creative+Technologist+%F0%9F%92%A1;AI+%26+Systems+Researcher+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&size=38&duration=3000&pause=1000&color=9C6B4E&center=true&vCenter=true&width=720&height=60&lines=Hey%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%F0%9F%8E%93;Creative+Technologist+%F0%9F%92%A1;AI+%26+Systems+Researcher+%F0%9F%A7%A0\" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -59,27 +59,30 @@
 
 ---
 
-## 🌐 Social Profiles
+<p><sub>selected work &nbsp; / &nbsp; 01—02</sub></p>
 
-<div align="center">
+<table width="100%" cellpadding="12" cellspacing="0">
+  <tr>
+    <td width="18%" valign="top"><sub>01 &nbsp; / &nbsp; computer vision</sub></td>
+    <td valign="top">
+      <a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator"><strong>desmosify</strong></a><br/>
+      turns image contours into equations you can explore in desmos.
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="18%" valign="top"><sub>02 &nbsp; / &nbsp; ios · motion</sub></td>
+    <td valign="top">
+      <a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><strong>quantumflow</strong></a><br/>
+      an activity tracker for runs, walks and rides, built around location, motion and maps.
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.youtube.com/@gedeonkohthegreat" title="YouTube">
-  <img src="https://cdn.simpleicons.org/youtube/A67B5B" width="50" height="50" alt="YouTube"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/gedeonkoh" title="Facebook">
-  <img src="https://cdn.simpleicons.org/facebook/9C6B4E" width="50" height="50" alt="Facebook"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/gedeonkoh/" title="Instagram">
-  <img src="https://cdn.simpleicons.org/instagram/C9A27E" width="50" height="50" alt="Instagram"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.pinterest.com/gedeonkohthegreat/" title="Pinterest">
-  <img src="https://cdn.simpleicons.org/pinterest/6F4E37" width="50" height="50" alt="Pinterest"/>
-</a>&nbsp;&nbsp;
-<a href="https://x.com/gedeonkoh" title="X">
-  <img src="https://cdn.simpleicons.org/x/EDE6DB" width="50" height="50" alt="X"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@gedeonkoh" title="TikTok">
-  <img src="https://cdn.simpleicons.org/tiktok/A67B5B" width="50" height="50" alt="TikTok"/>
-</a>
+<br/>
 
-</div>
+<p><sub>elsewhere</sub><br/>
+<a href="https://www.linkedin.com/in/gedeonkoh">linkedin</a> &nbsp; / &nbsp;
+<a href="https://beacons.ai/gedeonkoh">portfolio</a> &nbsp; / &nbsp;
+<a href="https://github.com/gedeonkoh">github</a>
+</p>
