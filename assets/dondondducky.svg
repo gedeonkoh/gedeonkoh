@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="340" viewBox="0 0 640 340" role="img" aria-labelledby="title desc">
-  <title id="title">dondondduck, focus timer</title>
-  <desc id="desc">A playful duck-shaped timer with focus and break segments.</desc>
+  <title id="title">dondondducky, focus timer</title>
+  <desc id="desc">a duck-shaped timer with focus and break segments.</desc>
   <rect width="640" height="340" fill="#f2f0e9"/>
   <path d="M24 24h592v292H24z" fill="none" stroke="#22231f" stroke-width="1"/>
-  <text x="42" y="58" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#595a54">FOCUS / BREAK / REPEAT</text>
+  <text x="42" y="58" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#595a54">focus / break / repeat</text>
   <text x="564" y="62" font-family="monospace" font-size="30" text-anchor="end" fill="#e85427">02</text>
   <circle cx="326" cy="183" r="95" fill="none" stroke="#d6d3c9" stroke-width="2"/>
   <path d="M326 88a95 95 0 0 1 93 76" fill="none" stroke="#e85427" stroke-width="8" stroke-linecap="square"/>
@@ -13,6 +13,6 @@
   <circle cx="348" cy="167" r="3.5" fill="#22231f"/>
   <path d="M374 187l24 7-23 7" fill="#f2f0e9" stroke="#22231f" stroke-width="2" stroke-linejoin="round"/>
   <path d="M310 92v-16h32v16M303 280v12h46v-12" fill="none" stroke="#22231f" stroke-width="2"/>
-  <text x="42" y="302" font-family="monospace" font-size="11" letter-spacing="1" fill="#595a54">FOCUS SESSIONS</text>
-  <text x="586" y="302" font-family="monospace" font-size="11" letter-spacing="1" text-anchor="end" fill="#595a54">DUCK INCLUDED</text>
+  <text x="42" y="302" font-family="monospace" font-size="11" letter-spacing="1" fill="#595a54">focus sessions</text>
+  <text x="586" y="302" font-family="monospace" font-size="11" letter-spacing="1" text-anchor="end" fill="#595a54">duck included</text>
 </svg>
