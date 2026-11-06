@@ -6,7 +6,7 @@
 
 # gedeon koh
 
-i’m an engineer, researcher and builder in training. electronics, software, machine learning and 3d modelling all end up on the same workbench here. i like testing where they meet — and thinking about who the result is for.
+i’m a young engineer, researcher and builder. electronics, software, machine learning and 3d modelling all end up on the same workbench; i like testing where they meet, and thinking about who the result is for.
 
 ---
 
@@ -18,53 +18,42 @@ i’m an engineer, researcher and builder in training. electronics, software, ma
 
 <br/>
 
-<table width="100%" cellpadding="14" cellspacing="0">
-  <tr>
-    <td width="46%" valign="middle">
-      <p><sub>01 &nbsp; / &nbsp; image → equation</sub></p>
-      <h3 id="desmosify"><a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator">desmosify ↗</a></h3>
-      <p>image contours, translated into equations you can explore in desmos.</p>
-      <p><sub>python &nbsp; · &nbsp; opencv &nbsp; · &nbsp; desmos</sub></p>
-    </td>
-    <td width="54%" valign="middle">
-      <a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator"><img src="./assets/desmosify.svg" alt="a contour resolving into a plotted curve" width="100%" /></a>
-    </td>
-  </tr>
-</table>
+<p><sub>01 &nbsp; / &nbsp; image → equation</sub></p>
 
-<hr/>
+<a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator"><img align="right" width="48%" src="./assets/desmosify.svg" alt="a contour resolving into a plotted curve" /></a>
 
-<table width="100%" cellpadding="14" cellspacing="0">
-  <tr>
-    <td width="54%" valign="middle">
-      <a href="https://github.com/gedeonkoh/DonDonDucky"><img src="./assets/dondondducky.svg" alt="a duck-shaped focus timer with focus and break segments" width="100%" /></a>
-    </td>
-    <td width="46%" valign="middle">
-      <p><sub>02 &nbsp; / &nbsp; focus, with a duck</sub></p>
-      <h3 id="dondondducky"><a href="https://github.com/gedeonkoh/DonDonDucky">dondondducky ↗</a></h3>
-      <p>a study companion for focus sessions, tasks, calendars and the small satisfaction of keeping a streak alive.</p>
-      <p><sub>swiftui &nbsp; · &nbsp; live activities</sub></p>
-    </td>
-  </tr>
-</table>
+<h3 id="desmosify"><a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator">desmosify ↗</a></h3>
 
-<hr/>
+<p>image contours, translated into equations you can explore in desmos.</p>
+<p><sub>python &nbsp; · &nbsp; opencv &nbsp; · &nbsp; desmos</sub></p>
 
-<table width="100%" cellpadding="14" cellspacing="0">
-  <tr>
-    <td width="46%" valign="middle">
-      <p><sub>03 &nbsp; / &nbsp; smtp, examined</sub></p>
-      <h3 id="spamurai"><a href="https://github.com/gedeonkoh/Spamurai.py">spamurai.py ↗</a></h3>
-      <p>an adversarial mail experiment: bulk batching, payload chunking and forged warning templates. a study of how ordinary email tools can be misused.</p>
-      <p><sub>python &nbsp; · &nbsp; smtp</sub></p>
-    </td>
-    <td width="54%" valign="middle">
-      <a href="https://github.com/gedeonkoh/Spamurai.py"><img src="./assets/spamurai.svg" alt="a diagram of email moving through a batch pipeline, marked no real recipients" width="100%" /></a>
-    </td>
-  </tr>
-</table>
+<br clear="all"/>
 
-<br/>
+---
+
+<p><sub>02 &nbsp; / &nbsp; focus, with a duck</sub></p>
+
+<a href="https://github.com/gedeonkoh/DonDonDucky"><img align="left" width="48%" src="./assets/dondondducky.svg" alt="a duck-shaped focus timer with focus and break segments" /></a>
+
+<h3 id="dondondducky"><a href="https://github.com/gedeonkoh/DonDonDucky">dondondducky ↗</a></h3>
+
+<p>a study companion for focus sessions, tasks, calendars and the small satisfaction of keeping a streak alive.</p>
+<p><sub>swiftui &nbsp; · &nbsp; live activities</sub></p>
+
+<br clear="all"/>
+
+---
+
+<p><sub>03 &nbsp; / &nbsp; smtp, examined</sub></p>
+
+<a href="https://github.com/gedeonkoh/Spamurai.py"><img align="right" width="48%" src="./assets/spamurai.svg" alt="a diagram of email moving through a batch pipeline, marked no real recipients" /></a>
+
+<h3 id="spamurai"><a href="https://github.com/gedeonkoh/Spamurai.py">spamurai.py ↗</a></h3>
+
+<p>an adversarial mail experiment: bulk batching, payload chunking and forged warning templates. a study of how ordinary email tools can be misused.</p>
+<p><sub>python &nbsp; · &nbsp; smtp</sub></p>
+
+<br clear="all"/>
 
 <details>
   <summary><code>open the margin notes</code> &nbsp; / &nbsp; what’s inside</summary>
