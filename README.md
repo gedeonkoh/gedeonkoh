@@ -1,6 +1,6 @@
 <p align="right"><sub>field notes &nbsp; / &nbsp; 00</sub></p>
-# gedeon koh
 
+# gedeon koh
 i’m a young engineer, researcher and builder. electronics, software, machine learning and 3d modelling all end up on the same workbench; i like testing where they meet, and thinking about who the result is for. 
 
 ---
