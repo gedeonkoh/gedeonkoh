@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="5500" height="2794" alt="gedeon" src="https://github.com/user-attachments/assets/76d7021e-ff89-4d92-a0aa-d2464df0d6fa" />
+  <img width="5500" height="2794" alt="gedeon2" src="https://github.com/user-attachments/assets/32516440-e67a-45fa-aa6f-90c2e81931c7" />
 </p>
 
 <p align="right"><sub>field notes &nbsp; / &nbsp; 00</sub></p>
