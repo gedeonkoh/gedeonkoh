@@ -1,88 +1,78 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   GEDEON KOH — PROFILE README v4                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<!--
-  Coffee Palette
-  Espresso  #2B1E16  |  Mocha  #6F4E37  |  Caramel #A67B5B
-  Latte     #C9A27E  |  Cream  #EDE6DB  |  Accent  #9C6B4E
--->
-
-<!-- ═══ ORIGINAL BANNER ═══ -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" alt="Gedeon Koh banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/20c389dd-f515-4255-8ca5-ccb372c7f0e6" alt="gedeon koh banner" width="100%" />
 </p>
 
-<!-- ═══ TYPING ANIMATION ═══ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&size=38&duration=3000&pause=1000&color=9C6B4E&center=true&vCenter=true&width=720&height=60&lines=Hey%2C+I'm+Gedeon+%F0%9F%91%8B;Student+Innovator+%F0%9F%8E%93;Creative+Technologist+%F0%9F%92%A1;AI+%26+Systems+Researcher+%F0%9F%A7%A0\" alt="Typing SVG" />
-</div>
+<p align="right"><sub>field notes &nbsp; / &nbsp; 00</sub></p>
 
-<br/>
+# gedeon koh
 
-<!-- ═══ INTRO CARD ═══ -->
-<div align="center">
-  <table width="860" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="58%" valign="top" bgcolor="#EDE6DB" style="padding:28px 26px; border-radius:18px;">
-        <br/>
-        <font size="5"><strong>Crafting systems at the edge of AI, hardware, and human-centered design.</strong></font><br/><br/>
-        Building playful, purposeful tech — from embedded gadgets 🤖 to intelligent software 💡. Making the world a better place once and for all 🌎. Always shipping, always learning.<br/><br/>
-        </a>
-        <img alt="Coffee vibes" src="https://img.shields.io/badge/coffee_vibes-on-9C6B4E?style=for-the-badge" />
-      </td>
-      <td width="2%" bgcolor="#EDE6DB">&nbsp;</td>
-      <td width="40%" valign="top" align="center" bgcolor="#EDE6DB" style="padding:24px 20px; border-radius:18px; border-left:2px dashed #A67B5B;">
-        <img
-          src="https://github.com/gedeonkoh/gedeonkoh/blob/4a670fe1653db768265166ef8e28ba4e06b382d6/A7B7DAA6-6372-4E72-9477-5A92A76A4C0B_1_105_c.jpeg"
-          alt="Gedeon Koh"
-          width="240"
-          height="300"
-        /><br/>
-        <sub><small><i>Presenting My Project at the Annual GT College International Science Project Competition (GTC-ISPC) 2025</i></small></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- ═══ QUICK LINKS ═══ -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gedeonkoh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gedeonkoh)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-beacons.ai-A67B5B?style=flat-square&logo=linktree&logoColor=white)](https://beacons.ai/gedeonkoh)&nbsp;
-[![Perplexity Fellow](https://img.shields.io/badge/Perplexity-AI_Fellow_2025-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)](https://perplexity.ai)&nbsp;
-![Views](https://img.shields.io/badge/PROFILE_VIEWS-6.7k%2B-9C6B4E?style=flat-square&logo=github&logoColor=white)
-
-</div>
+i’m an engineer, researcher and builder in training. electronics, software, machine learning and 3d modelling all end up on the same workbench here. i like testing where they meet — and thinking about who the result is for.
 
 ---
 
-<p><sub>selected work &nbsp; / &nbsp; 01—02</sub></p>
+## selected work
 
-<table width="100%" cellpadding="12" cellspacing="0">
+<sub>index &nbsp; / &nbsp; jump to a project</sub>
+
+[01 &nbsp; desmosify](#desmosify) &nbsp; / &nbsp; [02 &nbsp; dondondducky](#dondondducky) &nbsp; / &nbsp; [03 &nbsp; spamurai](#spamurai)
+
+<br/>
+
+<table width="100%" cellpadding="14" cellspacing="0">
   <tr>
-    <td width="18%" valign="top"><sub>01 &nbsp; / &nbsp; computer vision</sub></td>
-    <td valign="top">
-      <a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator"><strong>desmosify</strong></a><br/>
-      turns image contours into equations you can explore in desmos.
+    <td width="46%" valign="middle">
+      <p><sub>01 &nbsp; / &nbsp; image → equation</sub></p>
+      <h3 id="desmosify"><a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator">desmosify ↗</a></h3>
+      <p>image contours, translated into equations you can explore in desmos.</p>
+      <p><sub>python &nbsp; · &nbsp; opencv &nbsp; · &nbsp; desmos</sub></p>
+    </td>
+    <td width="54%" valign="middle">
+      <a href="https://github.com/gedeonkoh/Desmos-Image-Graphing-Calculator"><img src="./assets/desmosify.svg" alt="a contour resolving into a plotted curve" width="100%" /></a>
     </td>
   </tr>
-  <tr><td colspan="2"><hr/></td></tr>
+</table>
+
+<hr/>
+
+<table width="100%" cellpadding="14" cellspacing="0">
   <tr>
-    <td width="18%" valign="top"><sub>02 &nbsp; / &nbsp; ios · motion</sub></td>
-    <td valign="top">
-      <a href="https://github.com/gedeonkoh/QuantumFlow-Beta"><strong>quantumflow</strong></a><br/>
-      an activity tracker for runs, walks and rides, built around location, motion and maps.
+    <td width="54%" valign="middle">
+      <a href="https://github.com/gedeonkoh/DonDonDucky"><img src="./assets/dondondducky.svg" alt="a duck-shaped focus timer with focus and break segments" width="100%" /></a>
+    </td>
+    <td width="46%" valign="middle">
+      <p><sub>02 &nbsp; / &nbsp; focus, with a duck</sub></p>
+      <h3 id="dondondducky"><a href="https://github.com/gedeonkoh/DonDonDucky">dondondducky ↗</a></h3>
+      <p>a study companion for focus sessions, tasks, calendars and the small satisfaction of keeping a streak alive.</p>
+      <p><sub>swiftui &nbsp; · &nbsp; live activities</sub></p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td width="46%" valign="middle">
+      <p><sub>03 &nbsp; / &nbsp; smtp, examined</sub></p>
+      <h3 id="spamurai"><a href="https://github.com/gedeonkoh/Spamurai.py">spamurai.py ↗</a></h3>
+      <p>an adversarial mail experiment: bulk batching, payload chunking and forged warning templates. a study of how ordinary email tools can be misused.</p>
+      <p><sub>python &nbsp; · &nbsp; smtp</sub></p>
+    </td>
+    <td width="54%" valign="middle">
+      <a href="https://github.com/gedeonkoh/Spamurai.py"><img src="./assets/spamurai.svg" alt="a diagram of email moving through a batch pipeline, marked no real recipients" width="100%" /></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<p><sub>elsewhere</sub><br/>
-<a href="https://www.linkedin.com/in/gedeonkoh">linkedin</a> &nbsp; / &nbsp;
-<a href="https://beacons.ai/gedeonkoh">portfolio</a> &nbsp; / &nbsp;
-<a href="https://github.com/gedeonkoh">github</a>
-</p>
+<details>
+  <summary><code>open the margin notes</code> &nbsp; / &nbsp; what’s inside</summary>
+
+  <br/>
+
+  - **desmosify** — the repository contains jupyter notebooks; its image workflow uses opencv contours and generates desmos-ready equations.
+  - **dondondducky** — a swiftui app with a focus timer, calendar, to-do lists, history, streak tracking and a lock-screen live activity.
+  - **spamurai.py** — python scripts for timed smtp message batches and phishing-style templates. the repository describes misuse risks; keep any testing confined to accounts and systems you control.
+
+</details>
