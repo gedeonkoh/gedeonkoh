@@ -56,7 +56,7 @@ i’m a young engineer, researcher and builder. electronics, software, machine l
 <br clear="all"/>
 
 <details>
-  <summary><code>open the margin notes</code> &nbsp; / &nbsp; what’s inside</summary>
+  <summary><code>open the margin notes</code> &nbsp; / &nbsp; see what’s inside</summary>
 
   <br/>
 
